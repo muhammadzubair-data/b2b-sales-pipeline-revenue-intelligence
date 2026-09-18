@@ -1,0 +1,5 @@
+sql/crm.db
+data/raw/_activity_intensity.npy
+__pycache__/
+*.pyc
+.ipynb_checkpoints/

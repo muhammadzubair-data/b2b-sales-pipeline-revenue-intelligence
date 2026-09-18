@@ -1,0 +1,4 @@
+strategy,total_expected_revenue_captured,total_expected_incremental_revenue_captured,avg_win_probability_of_selected,pct_selected_already_likely_to_win_anyway (p>0.75)
+naive_win_probability,196578719.49010205,9435312.03221899,0.7580040766912348,77.64705882352942
+expected_revenue,816944011.0380961,72470763.51520973,0.5361569938560327,7.549019607843137
+expected_incremental_revenue,703188416.8522494,84999663.15893614,0.4724332076807817,2.450980392156863

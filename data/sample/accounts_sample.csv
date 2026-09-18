@@ -1,0 +1,501 @@
+account_id,account_name,industry,company_size_band,employees,annual_revenue_usd,territory_id,created_date,engagement_score
+1,Nova Group 0,Technology,SMB,138,14590000.0,24,2023-05-15,37.3
+2,Meridian Solutions 1,Government,SMB,224,21755000.0,19,2023-10-03,75.7
+3,Atlas Holdings 2,Education,SMB,245,38911000.0,3,2022-06-01,58.8
+4,Cedar Partners 3,Government,Mid-Market,843,80359000.0,18,2022-08-11,65.5
+5,Ironwood LLC 4,Healthcare,SMB,192,22814000.0,15,2023-10-06,64.0
+6,Cobalt Co. 5,Energy & Utilities,Mid-Market,1064,134201000.0,8,2022-02-11,73.5
+7,Lumen Ltd. 6,Retail & eCommerce,Mid-Market,683,114191000.0,24,2023-11-25,83.0
+8,Orbit Solutions 7,Technology,Enterprise,37306,3679921000.0,14,2022-02-26,79.1
+9,Anchor Solutions 8,Technology,SMB,180,16736000.0,2,2022-10-08,88.2
+10,Silverline Partners 9,Education,SMB,99,24268000.0,14,2022-04-28,31.4
+11,Crestline Co. 10,Technology,SMB,185,19119000.0,10,2022-06-04,55.1
+12,Granite Co. 11,Financial Services,SMB,174,44756000.0,10,2023-04-22,44.2
+13,Bluewave Ltd. 12,Media & Telecom,Mid-Market,2253,219544000.0,24,2023-05-28,56.9
+14,Lumen Co. 13,Technology,SMB,215,37607000.0,1,2023-07-03,57.6
+15,Vantage Ltd. 14,Technology,SMB,180,16161000.0,8,2023-08-29,85.3
+16,Orbit Solutions 15,Media & Telecom,SMB,165,14916000.0,3,2023-04-01,54.8
+17,Harbor Group 16,Retail & eCommerce,Mid-Market,769,78432000.0,23,2022-11-14,54.2
+18,Ironwood Ltd. 17,Technology,SMB,166,19681000.0,7,2023-06-07,47.3
+19,Vantage Solutions 18,Energy & Utilities,Mid-Market,918,178685000.0,23,2023-12-08,88.3
+20,Lumen Inc. 19,Energy & Utilities,Mid-Market,1783,178649000.0,13,2022-03-18,15.9
+21,Summit Holdings 20,Financial Services,SMB,242,29688000.0,20,2023-06-18,49.1
+22,Cedar Holdings 21,Retail & eCommerce,Mid-Market,308,42958000.0,19,2022-07-20,63.3
+23,Cobalt Ltd. 22,Manufacturing,SMB,68,15808000.0,1,2023-04-13,68.6
+24,Atlas Ltd. 23,Technology,Mid-Market,1794,356587000.0,2,2023-01-31,59.6
+25,Meridian Inc. 24,Retail & eCommerce,Mid-Market,1787,431207000.0,2,2023-11-06,48.0
+26,Summit Ltd. 25,Manufacturing,SMB,32,6398000.0,19,2022-09-01,58.9
+27,Northgate Co. 26,Education,Enterprise,46975,8777932000.0,1,2022-05-30,30.8
+28,Bluewave LLC 27,Professional Services,SMB,147,16253000.0,23,2022-10-01,29.0
+29,Summit LLC 28,Technology,SMB,142,34553000.0,2,2023-02-27,48.8
+30,Cedar Partners 29,Retail & eCommerce,SMB,228,41976000.0,8,2022-06-25,72.2
+31,Vantage Group 30,Manufacturing,SMB,186,16085000.0,6,2023-04-04,63.0
+32,Meridian Co. 31,Energy & Utilities,Mid-Market,1214,206594000.0,8,2022-02-07,49.7
+33,Orbit Holdings 32,Manufacturing,SMB,65,9501000.0,20,2023-06-06,60.8
+34,Cedar Group 33,Retail & eCommerce,Mid-Market,2251,573588000.0,18,2023-09-20,87.9
+35,Nova Solutions 34,Retail & eCommerce,Enterprise,17700,2132516000.0,5,2023-11-12,74.0
+36,Atlas Co. 35,Healthcare,SMB,95,23393000.0,12,2023-05-17,36.9
+37,Bluewave Solutions 36,Education,SMB,245,46703000.0,14,2023-05-20,23.0
+38,Falcon Co. 37,Government,Mid-Market,1874,174369000.0,21,2023-05-08,53.4
+39,Cobalt Group 38,Retail & eCommerce,SMB,168,22086000.0,8,2022-11-14,89.7
+40,Ironwood Holdings 39,Government,SMB,191,18664000.0,16,2023-11-24,69.2
+41,Vertex Partners 40,Media & Telecom,Mid-Market,753,110690000.0,6,2023-04-21,81.1
+42,Vantage Holdings 41,Healthcare,SMB,27,2996000.0,2,2023-05-29,39.2
+43,Harbor Ltd. 42,Financial Services,Enterprise,37983,6340049000.0,14,2023-06-16,66.2
+44,Granite Solutions 43,Technology,Mid-Market,527,102723000.0,2,2023-09-01,47.0
+45,Falcon Inc. 44,Professional Services,Mid-Market,1014,250008000.0,21,2022-10-31,51.3
+46,Crestline Solutions 45,Financial Services,SMB,123,12153000.0,1,2023-02-08,71.4
+47,Falcon Co. 46,Healthcare,Mid-Market,1179,186204000.0,24,2022-10-28,63.8
+48,Meridian Partners 47,Technology,Mid-Market,2006,361717000.0,18,2023-07-02,63.7
+49,Granite Solutions 48,Energy & Utilities,SMB,132,27837000.0,16,2023-06-08,41.3
+50,Cedar Solutions 49,Healthcare,SMB,37,9379000.0,2,2022-09-29,25.1
+51,Summit Partners 50,Education,SMB,59,6759000.0,5,2023-04-25,35.0
+52,Pinnacle Co. 51,Technology,Mid-Market,638,91432000.0,24,2023-05-07,67.6
+53,Granite Inc. 52,Media & Telecom,SMB,247,46915000.0,22,2023-05-10,33.9
+54,Bluewave LLC 53,Technology,Mid-Market,2412,619902000.0,24,2022-09-01,56.0
+55,Vantage Ltd. 54,Manufacturing,Enterprise,55845,10974581000.0,15,2022-04-12,74.9
+56,Silverline Co. 55,Professional Services,Mid-Market,663,82245000.0,21,2023-01-24,47.4
+57,Vantage LLC 56,Energy & Utilities,SMB,37,3053000.0,18,2022-08-21,58.1
+58,Summit Inc. 57,Manufacturing,SMB,119,29112000.0,19,2023-06-27,34.3
+59,Orbit LLC 58,Financial Services,Mid-Market,2034,180638000.0,5,2023-07-05,26.5
+60,Northgate Holdings 59,Government,SMB,69,8832000.0,14,2022-04-15,37.1
+61,Pinnacle Ltd. 60,Energy & Utilities,Mid-Market,1745,360987000.0,20,2022-12-18,67.5
+62,Nova Partners 61,Healthcare,SMB,134,14308000.0,20,2023-11-25,49.4
+63,Northgate Solutions 62,Financial Services,SMB,178,30539000.0,2,2022-08-21,50.2
+64,Falcon Partners 63,Government,SMB,176,14664000.0,9,2022-02-04,41.9
+65,Pinnacle Group 64,Government,SMB,13,2965000.0,24,2023-08-02,63.7
+66,Atlas Co. 65,Professional Services,Mid-Market,984,191792000.0,20,2022-06-03,75.4
+67,Crestline LLC 66,Retail & eCommerce,Mid-Market,933,196405000.0,7,2022-08-29,90.0
+68,Summit LLC 67,Technology,SMB,216,44412000.0,13,2022-07-06,67.3
+69,Vantage Co. 68,Energy & Utilities,Mid-Market,557,104538000.0,21,2022-04-27,58.9
+70,Bluewave Group 69,Professional Services,Mid-Market,2321,231848000.0,23,2022-04-18,50.8
+71,Vantage Co. 70,Professional Services,Mid-Market,925,112104000.0,22,2023-12-21,31.7
+72,Orbit Co. 71,Technology,SMB,190,32115000.0,19,2022-05-22,55.3
+73,Cobalt Inc. 72,Manufacturing,SMB,209,16886000.0,7,2022-03-04,27.1
+74,Granite Partners 73,Government,SMB,46,6806000.0,7,2023-10-02,43.5
+75,Harbor Partners 74,Technology,SMB,75,10977000.0,3,2023-04-05,19.1
+76,Northgate Ltd. 75,Media & Telecom,Mid-Market,1905,428034000.0,15,2023-02-23,67.7
+77,Atlas Group 76,Healthcare,SMB,73,11353000.0,9,2023-02-02,45.1
+78,Cedar Co. 77,Education,Mid-Market,2073,324795000.0,2,2023-07-06,60.3
+79,Granite Group 78,Energy & Utilities,Enterprise,30686,7741495000.0,5,2022-04-24,69.8
+80,Silverline Partners 79,Healthcare,SMB,55,12598000.0,1,2022-02-20,38.9
+81,Meridian Inc. 80,Healthcare,SMB,143,24349000.0,6,2023-08-24,46.7
+82,Nova Ltd. 81,Retail & eCommerce,Enterprise,10699,1310890000.0,22,2022-06-24,78.9
+83,Atlas Solutions 82,Retail & eCommerce,SMB,109,26069000.0,17,2023-03-20,82.2
+84,Ironwood Inc. 83,Healthcare,SMB,139,28667000.0,20,2022-09-10,64.4
+85,Atlas Inc. 84,Retail & eCommerce,SMB,21,4054000.0,12,2022-07-15,54.6
+86,Anchor Group 85,Media & Telecom,SMB,226,34610000.0,17,2023-09-12,43.3
+87,Harbor Solutions 86,Financial Services,Mid-Market,1520,183259000.0,15,2022-12-27,53.3
+88,Northgate Co. 87,Manufacturing,SMB,158,26407000.0,12,2023-08-31,29.8
+89,Atlas Partners 88,Healthcare,SMB,183,47308000.0,6,2023-11-03,100.0
+90,Cedar Solutions 89,Healthcare,SMB,225,35274000.0,8,2023-10-30,77.1
+91,Northgate Group 90,Technology,SMB,34,3968000.0,23,2022-04-20,66.2
+92,Anchor Ltd. 91,Technology,Mid-Market,2306,495762000.0,21,2023-03-18,65.1
+93,Cedar LLC 92,Education,Mid-Market,2139,516592000.0,21,2023-01-09,46.3
+94,Summit LLC 93,Healthcare,SMB,81,18812000.0,14,2022-06-06,65.6
+95,Granite Group 94,Media & Telecom,Enterprise,19423,2578496000.0,2,2022-01-29,79.0
+96,Pinnacle LLC 95,Manufacturing,SMB,107,17756000.0,14,2023-11-30,6.2
+97,Lumen Inc. 96,Technology,SMB,175,32893000.0,7,2022-09-20,59.1
+98,Anchor Solutions 97,Government,SMB,198,22943000.0,16,2022-01-09,61.7
+99,Crestline Group 98,Energy & Utilities,SMB,113,13667000.0,17,2022-04-28,25.5
+100,Crestline LLC 99,Manufacturing,SMB,211,27674000.0,12,2022-11-05,39.8
+101,Lumen Holdings 100,Manufacturing,Mid-Market,907,140559000.0,8,2023-07-09,84.6
+102,Summit Holdings 101,Manufacturing,Mid-Market,1949,423687000.0,15,2022-09-17,44.8
+103,Granite Inc. 102,Financial Services,Enterprise,58376,10799450000.0,20,2023-12-12,93.7
+104,Summit Solutions 103,Financial Services,SMB,58,14519000.0,1,2023-11-28,67.4
+105,Granite Partners 104,Manufacturing,Mid-Market,2372,220477000.0,1,2022-10-29,66.4
+106,Silverline Co. 105,Technology,SMB,48,7867000.0,8,2022-08-05,31.7
+107,Atlas LLC 106,Financial Services,Enterprise,5905,1314778000.0,5,2023-02-10,59.6
+108,Vertex Ltd. 107,Media & Telecom,SMB,186,30917000.0,19,2023-09-02,47.9
+109,Bluewave Holdings 108,Education,Mid-Market,1032,118983000.0,1,2022-02-02,50.6
+110,Orbit LLC 109,Financial Services,Mid-Market,789,185353000.0,22,2022-08-31,63.5
+111,Atlas Inc. 110,Technology,SMB,42,5198000.0,20,2023-03-30,60.4
+112,Harbor Holdings 111,Manufacturing,SMB,181,27337000.0,14,2022-03-20,17.9
+113,Vantage LLC 112,Manufacturing,Enterprise,7072,784609000.0,11,2022-10-29,67.0
+114,Harbor Holdings 113,Government,Mid-Market,991,226637000.0,13,2022-07-03,57.4
+115,Nova Partners 114,Energy & Utilities,Mid-Market,747,124921000.0,19,2023-12-26,47.9
+116,Meridian Solutions 115,Energy & Utilities,Mid-Market,1158,106447000.0,11,2022-08-02,98.9
+117,Pinnacle Solutions 116,Media & Telecom,SMB,207,53152000.0,8,2023-07-28,55.2
+118,Ironwood Co. 117,Media & Telecom,Mid-Market,2455,576597000.0,15,2022-11-20,84.6
+119,Falcon Co. 118,Media & Telecom,SMB,88,7302000.0,13,2023-01-26,40.2
+120,Ironwood Solutions 119,Technology,Enterprise,8144,1316475000.0,4,2023-08-16,44.0
+121,Summit LLC 120,Technology,SMB,233,28243000.0,23,2022-09-23,70.2
+122,Nova LLC 121,Manufacturing,SMB,210,44050000.0,21,2023-08-27,61.1
+123,Bluewave Partners 122,Retail & eCommerce,Enterprise,22506,5165618000.0,24,2022-03-07,53.4
+124,Falcon Solutions 123,Technology,Mid-Market,1679,321104000.0,8,2022-08-05,39.0
+125,Anchor LLC 124,Professional Services,SMB,178,36005000.0,23,2023-11-27,83.5
+126,Cobalt Solutions 125,Retail & eCommerce,Enterprise,45291,11719374000.0,10,2022-05-04,43.8
+127,Silverline Partners 126,Retail & eCommerce,SMB,194,34422000.0,10,2023-11-02,38.6
+128,Cobalt Holdings 127,Technology,SMB,189,44022000.0,22,2022-06-19,75.7
+129,Vantage Co. 128,Manufacturing,SMB,23,5369000.0,9,2023-10-12,56.8
+130,Bluewave LLC 129,Technology,SMB,234,25889000.0,24,2022-06-30,32.1
+131,Ironwood Solutions 130,Professional Services,Mid-Market,1778,291277000.0,5,2023-09-04,54.5
+132,Harbor LLC 131,Retail & eCommerce,Mid-Market,610,125199000.0,23,2023-01-10,59.6
+133,Summit Inc. 132,Government,SMB,17,2138000.0,13,2023-04-14,25.2
+134,Ironwood Solutions 133,Manufacturing,SMB,194,36363000.0,14,2023-08-07,32.7
+135,Nova Inc. 134,Healthcare,Mid-Market,958,164230000.0,6,2023-04-19,66.0
+136,Crestline Inc. 135,Healthcare,SMB,119,26189000.0,4,2023-01-30,68.9
+137,Orbit LLC 136,Government,Mid-Market,1944,499459000.0,4,2023-11-30,64.2
+138,Cedar Solutions 137,Professional Services,Enterprise,38423,3863897000.0,24,2023-01-07,61.1
+139,Silverline Partners 138,Manufacturing,SMB,163,23944000.0,2,2023-07-03,76.8
+140,Silverline Inc. 139,Media & Telecom,SMB,86,13987000.0,7,2022-06-09,62.1
+141,Meridian Holdings 140,Technology,SMB,51,11430000.0,23,2023-09-25,59.4
+142,Vertex Solutions 141,Energy & Utilities,SMB,25,4204000.0,14,2022-01-25,53.5
+143,Crestline Holdings 142,Technology,SMB,203,31390000.0,2,2022-10-08,81.4
+144,Silverline Solutions 143,Manufacturing,SMB,53,9714000.0,16,2023-12-16,57.0
+145,Vantage Co. 144,Professional Services,SMB,183,18554000.0,8,2023-03-01,67.0
+146,Lumen LLC 145,Technology,SMB,238,30234000.0,21,2023-09-28,30.1
+147,Cobalt Partners 146,Healthcare,Mid-Market,2477,303504000.0,14,2022-02-28,35.1
+148,Anchor Partners 147,Financial Services,Enterprise,17000,4334159000.0,14,2022-02-08,46.0
+149,Falcon Holdings 148,Manufacturing,Mid-Market,580,147181000.0,17,2023-12-13,60.1
+150,Nova Inc. 149,Education,SMB,84,9737000.0,13,2022-05-30,19.0
+151,Orbit Group 150,Professional Services,SMB,94,19828000.0,6,2023-07-16,46.2
+152,Cobalt Partners 151,Energy & Utilities,SMB,240,40943000.0,22,2022-07-09,35.5
+153,Harbor Inc. 152,Healthcare,SMB,235,60520000.0,9,2023-09-16,48.1
+154,Anchor Solutions 153,Financial Services,SMB,82,7765000.0,2,2023-11-06,59.3
+155,Atlas LLC 154,Manufacturing,SMB,248,29116000.0,8,2023-11-22,40.6
+156,Lumen Inc. 155,Manufacturing,SMB,154,32966000.0,13,2023-04-18,66.2
+157,Pinnacle Co. 156,Technology,SMB,15,3055000.0,21,2023-06-15,100.0
+158,Silverline Co. 157,Media & Telecom,Enterprise,32299,4542548000.0,11,2023-04-18,63.4
+159,Atlas Co. 158,Energy & Utilities,Mid-Market,933,181752000.0,8,2022-07-20,37.0
+160,Orbit Holdings 159,Professional Services,SMB,14,2530000.0,11,2023-03-17,11.1
+161,Pinnacle Co. 160,Financial Services,Mid-Market,2087,527848000.0,21,2022-10-02,67.0
+162,Falcon Partners 161,Financial Services,Mid-Market,2268,585177000.0,3,2023-01-02,63.5
+163,Meridian Partners 162,Financial Services,Enterprise,40249,5822911000.0,4,2022-12-14,48.8
+164,Meridian Inc. 163,Financial Services,SMB,172,25512000.0,19,2022-06-21,58.7
+165,Vantage Solutions 164,Financial Services,SMB,219,17803000.0,10,2023-12-06,39.9
+166,Granite LLC 165,Technology,Mid-Market,633,76128000.0,18,2022-10-25,47.7
+167,Cobalt Partners 166,Technology,Mid-Market,2349,523412000.0,15,2023-11-15,49.8
+168,Summit Partners 167,Media & Telecom,Mid-Market,2296,499428000.0,12,2022-04-01,58.7
+169,Cedar Solutions 168,Financial Services,SMB,66,11300000.0,10,2023-09-04,30.5
+170,Bluewave Solutions 169,Media & Telecom,SMB,61,6182000.0,13,2022-04-07,69.5
+171,Nova Inc. 170,Technology,Mid-Market,1124,216985000.0,3,2022-12-24,7.8
+172,Atlas Solutions 171,Retail & eCommerce,Mid-Market,1414,190100000.0,14,2022-03-25,33.1
+173,Granite Inc. 172,Manufacturing,SMB,178,22564000.0,3,2023-10-11,73.0
+174,Lumen Holdings 173,Manufacturing,SMB,21,5374000.0,18,2023-07-23,54.3
+175,Summit Co. 174,Technology,Enterprise,24706,6221933000.0,15,2023-07-19,40.1
+176,Ironwood Group 175,Technology,SMB,207,42894000.0,13,2022-12-17,66.4
+177,Granite Group 176,Energy & Utilities,SMB,190,34057000.0,23,2023-10-20,20.2
+178,Vertex Group 177,Healthcare,SMB,21,3451000.0,4,2022-07-13,63.0
+179,Harbor Partners 178,Retail & eCommerce,Mid-Market,1616,132218000.0,21,2022-01-01,33.5
+180,Anchor Solutions 179,Financial Services,Mid-Market,1675,239663000.0,1,2023-11-12,12.3
+181,Ironwood Solutions 180,Healthcare,SMB,107,16563000.0,14,2022-02-23,52.5
+182,Vantage Group 181,Financial Services,Enterprise,30651,4491339000.0,20,2023-07-16,57.2
+183,Granite Holdings 182,Manufacturing,Mid-Market,1070,87674000.0,1,2022-05-06,27.4
+184,Cobalt Solutions 183,Media & Telecom,SMB,66,13827000.0,14,2022-04-05,40.9
+185,Anchor Co. 184,Professional Services,SMB,8,1484000.0,14,2022-10-09,66.0
+186,Meridian Ltd. 185,Government,Mid-Market,2191,267859000.0,10,2023-02-09,9.0
+187,Atlas Partners 186,Financial Services,Enterprise,10423,1552588000.0,8,2022-09-03,53.7
+188,Meridian Holdings 187,Technology,SMB,214,26029000.0,12,2023-01-12,41.3
+189,Vertex Holdings 188,Energy & Utilities,Mid-Market,534,76204000.0,16,2023-09-27,38.5
+190,Lumen Holdings 189,Healthcare,Enterprise,28597,3712529000.0,15,2022-01-16,36.5
+191,Cedar Holdings 190,Technology,Mid-Market,2084,524075000.0,6,2022-07-05,17.0
+192,Lumen Holdings 191,Healthcare,Mid-Market,870,136331000.0,24,2022-12-18,13.4
+193,Vertex Co. 192,Professional Services,SMB,139,29499000.0,15,2023-11-01,39.0
+194,Falcon Holdings 193,Retail & eCommerce,SMB,160,35620000.0,21,2023-09-27,72.8
+195,Meridian Inc. 194,Government,SMB,11,1940000.0,9,2023-09-19,62.6
+196,Meridian Solutions 195,Professional Services,SMB,90,14997000.0,5,2023-10-03,50.7
+197,Vertex LLC 196,Manufacturing,SMB,140,16653000.0,10,2022-10-10,36.3
+198,Vertex Solutions 197,Energy & Utilities,Mid-Market,720,177473000.0,12,2023-12-10,37.4
+199,Ironwood Holdings 198,Financial Services,SMB,33,6041000.0,17,2023-05-20,30.0
+200,Pinnacle Group 199,Retail & eCommerce,SMB,201,39222000.0,1,2022-10-04,34.9
+201,Pinnacle Solutions 200,Technology,Mid-Market,782,135868000.0,9,2022-08-03,45.3
+202,Atlas LLC 201,Media & Telecom,SMB,59,8806000.0,18,2023-03-20,64.4
+203,Northgate Inc. 202,Manufacturing,SMB,41,10221000.0,22,2022-02-08,66.3
+204,Northgate Group 203,Technology,SMB,144,26372000.0,24,2022-07-29,85.1
+205,Granite Solutions 204,Financial Services,SMB,128,15566000.0,15,2022-01-11,19.3
+206,Anchor Ltd. 205,Technology,SMB,111,22519000.0,21,2022-08-24,56.4
+207,Cedar Co. 206,Technology,SMB,156,28889000.0,23,2022-01-14,86.3
+208,Silverline Partners 207,Retail & eCommerce,Enterprise,30101,5682726000.0,7,2022-09-03,94.0
+209,Lumen LLC 208,Healthcare,SMB,5,424000.0,24,2022-08-18,90.7
+210,Meridian Ltd. 209,Energy & Utilities,SMB,5,446000.0,13,2022-08-22,67.1
+211,Vertex Inc. 210,Healthcare,SMB,69,7348000.0,15,2023-01-05,70.8
+212,Northgate Partners 211,Government,SMB,204,29992000.0,14,2023-12-19,38.1
+213,Cedar Solutions 212,Financial Services,Mid-Market,2331,370418000.0,10,2022-04-04,59.2
+214,Vantage Co. 213,Education,SMB,21,1767000.0,17,2023-05-20,42.9
+215,Vantage Inc. 214,Retail & eCommerce,Mid-Market,2482,621901000.0,17,2022-02-17,18.9
+216,Nova Inc. 215,Financial Services,SMB,230,50595000.0,19,2023-12-29,65.0
+217,Nova Solutions 216,Media & Telecom,SMB,74,14806000.0,7,2023-01-29,78.8
+218,Vantage Solutions 217,Healthcare,Mid-Market,1258,167614000.0,7,2022-02-19,67.2
+219,Cedar LLC 218,Technology,Enterprise,9690,1228541000.0,4,2023-08-10,61.6
+220,Granite Holdings 219,Education,SMB,37,3028000.0,14,2022-05-05,41.7
+221,Summit Co. 220,Professional Services,Mid-Market,528,122491000.0,3,2022-01-13,52.9
+222,Lumen Holdings 221,Technology,SMB,8,1755000.0,15,2023-01-01,17.3
+223,Anchor Co. 222,Financial Services,SMB,183,27024000.0,1,2022-09-18,59.5
+224,Crestline Inc. 223,Energy & Utilities,SMB,181,20029000.0,11,2023-05-22,33.2
+225,Bluewave Solutions 224,Government,Mid-Market,348,73390000.0,10,2022-12-21,40.9
+226,Meridian Solutions 225,Media & Telecom,Mid-Market,417,39670000.0,5,2022-04-02,42.0
+227,Vantage Holdings 226,Financial Services,SMB,60,10201000.0,8,2022-02-14,44.8
+228,Anchor LLC 227,Education,Mid-Market,2313,316356000.0,15,2022-05-08,54.1
+229,Harbor Co. 228,Manufacturing,SMB,191,49129000.0,17,2023-10-21,59.9
+230,Harbor Solutions 229,Media & Telecom,Mid-Market,2392,385170000.0,18,2022-09-04,61.4
+231,Atlas Solutions 230,Healthcare,SMB,157,19368000.0,9,2023-04-15,67.7
+232,Atlas Solutions 231,Government,SMB,245,48357000.0,19,2022-07-03,62.3
+233,Granite Group 232,Healthcare,SMB,44,10140000.0,14,2022-12-07,65.3
+234,Pinnacle Inc. 233,Retail & eCommerce,SMB,5,902000.0,20,2023-02-16,56.2
+235,Summit Solutions 234,Education,SMB,18,2920000.0,11,2023-06-03,52.7
+236,Anchor Solutions 235,Financial Services,Enterprise,12145,2282018000.0,10,2022-05-21,73.6
+237,Northgate LLC 236,Energy & Utilities,Mid-Market,2407,374432000.0,12,2023-09-30,57.0
+238,Anchor Partners 237,Healthcare,Mid-Market,439,104129000.0,1,2022-07-25,65.9
+239,Orbit LLC 238,Retail & eCommerce,SMB,110,19293000.0,19,2023-06-29,36.4
+240,Pinnacle Co. 239,Healthcare,SMB,246,53508000.0,24,2023-04-20,28.7
+241,Lumen Solutions 240,Healthcare,Mid-Market,722,158038000.0,19,2022-06-19,40.0
+242,Vantage Partners 241,Financial Services,SMB,128,19427000.0,23,2022-04-02,56.5
+243,Vantage Ltd. 242,Technology,SMB,156,32290000.0,7,2023-08-30,50.8
+244,Nova LLC 243,Technology,SMB,198,25310000.0,6,2022-03-12,79.3
+245,Summit Co. 244,Education,Mid-Market,1264,204351000.0,11,2022-04-03,45.6
+246,Vertex Group 245,Education,SMB,200,25479000.0,11,2022-11-24,31.9
+247,Lumen Partners 246,Education,SMB,34,3728000.0,14,2023-09-28,61.3
+248,Granite Co. 247,Technology,SMB,114,17857000.0,23,2022-09-01,21.4
+249,Meridian LLC 248,Healthcare,SMB,144,24922000.0,16,2022-03-23,70.8
+250,Atlas Inc. 249,Manufacturing,SMB,147,34233000.0,11,2022-05-12,64.8
+251,Vertex Solutions 250,Professional Services,Mid-Market,1292,266435000.0,11,2022-04-02,33.9
+252,Crestline Holdings 251,Professional Services,SMB,34,5032000.0,17,2023-01-02,67.5
+253,Cobalt Partners 252,Manufacturing,Mid-Market,1704,139025000.0,3,2023-06-11,52.4
+254,Pinnacle Holdings 253,Education,Enterprise,35321,7009839000.0,17,2023-10-08,59.0
+255,Granite Group 254,Technology,SMB,18,4296000.0,10,2022-10-08,64.1
+256,Granite Partners 255,Manufacturing,SMB,143,35965000.0,5,2022-03-31,55.4
+257,Falcon Inc. 256,Technology,SMB,50,8153000.0,21,2022-10-11,27.3
+258,Cedar Inc. 257,Manufacturing,SMB,71,7610000.0,10,2022-08-25,64.7
+259,Pinnacle Ltd. 258,Education,Mid-Market,1634,370570000.0,15,2022-02-05,41.0
+260,Orbit Holdings 259,Energy & Utilities,SMB,180,28833000.0,6,2022-12-26,37.6
+261,Orbit Holdings 260,Manufacturing,SMB,120,15689000.0,11,2023-12-10,50.1
+262,Silverline Holdings 261,Retail & eCommerce,SMB,152,16004000.0,17,2023-07-31,56.1
+263,Cobalt Group 262,Education,Mid-Market,426,96416000.0,6,2022-06-24,61.3
+264,Atlas Holdings 263,Media & Telecom,SMB,142,18946000.0,7,2023-08-21,39.7
+265,Orbit Partners 264,Retail & eCommerce,Enterprise,49509,8801579000.0,13,2023-07-05,78.6
+266,Summit Solutions 265,Manufacturing,SMB,112,20179000.0,6,2022-12-09,30.0
+267,Atlas Group 266,Retail & eCommerce,SMB,162,21262000.0,15,2022-08-01,61.5
+268,Cobalt Inc. 267,Healthcare,SMB,37,5729000.0,11,2023-12-05,65.1
+269,Meridian Inc. 268,Media & Telecom,Mid-Market,1809,397473000.0,1,2022-05-26,44.6
+270,Meridian Holdings 269,Healthcare,Mid-Market,1234,203130000.0,19,2023-03-14,51.6
+271,Meridian Co. 270,Education,SMB,22,5609000.0,6,2023-04-20,59.6
+272,Crestline Ltd. 271,Technology,Mid-Market,1573,157803000.0,13,2022-04-06,53.3
+273,Lumen Co. 272,Healthcare,SMB,113,14222000.0,13,2022-06-12,97.8
+274,Crestline Group 273,Energy & Utilities,Enterprise,18119,2499341000.0,10,2022-12-25,79.3
+275,Vantage Holdings 274,Retail & eCommerce,Mid-Market,841,85458000.0,2,2023-08-03,71.8
+276,Cedar Co. 275,Financial Services,SMB,53,9809000.0,20,2023-04-27,49.9
+277,Crestline Holdings 276,Media & Telecom,SMB,171,40035000.0,5,2023-12-07,92.8
+278,Anchor Inc. 277,Professional Services,Enterprise,22323,1895241000.0,8,2022-05-27,54.7
+279,Atlas Inc. 278,Healthcare,Enterprise,10392,1484638000.0,22,2023-02-28,54.1
+280,Ironwood Solutions 279,Retail & eCommerce,SMB,6,521000.0,18,2022-03-22,62.1
+281,Lumen Solutions 280,Financial Services,SMB,56,12433000.0,13,2022-02-08,53.8
+282,Cedar LLC 281,Retail & eCommerce,Mid-Market,2453,608378000.0,6,2023-09-10,35.6
+283,Crestline Inc. 282,Healthcare,SMB,146,17716000.0,4,2023-11-25,61.0
+284,Pinnacle Ltd. 283,Manufacturing,Mid-Market,475,76395000.0,2,2023-11-14,44.6
+285,Ironwood Holdings 284,Energy & Utilities,Enterprise,34095,7109749000.0,9,2022-11-03,24.5
+286,Orbit Inc. 285,Energy & Utilities,SMB,208,29494000.0,24,2023-01-29,54.3
+287,Pinnacle Co. 286,Professional Services,Mid-Market,1022,159124000.0,17,2022-04-04,56.5
+288,Anchor Partners 287,Media & Telecom,SMB,115,19697000.0,1,2022-03-03,63.5
+289,Harbor Inc. 288,Government,Mid-Market,1268,123810000.0,6,2023-08-04,52.0
+290,Crestline Partners 289,Government,SMB,213,54357000.0,20,2022-11-26,27.7
+291,Atlas Partners 290,Government,Mid-Market,1568,216287000.0,15,2023-12-13,27.5
+292,Summit Holdings 291,Financial Services,Mid-Market,2351,240246000.0,5,2022-11-20,71.2
+293,Orbit LLC 292,Financial Services,SMB,247,40884000.0,7,2023-02-04,69.5
+294,Falcon Co. 293,Manufacturing,SMB,49,9699000.0,11,2023-10-10,79.5
+295,Lumen Ltd. 294,Retail & eCommerce,SMB,39,8389000.0,3,2023-05-26,63.2
+296,Granite Inc. 295,Manufacturing,SMB,29,7536000.0,9,2023-03-29,48.4
+297,Vantage Inc. 296,Manufacturing,Mid-Market,1865,421755000.0,11,2023-11-22,1.0
+298,Nova Inc. 297,Retail & eCommerce,SMB,130,28802000.0,22,2022-02-08,10.6
+299,Silverline Solutions 298,Healthcare,SMB,204,25445000.0,22,2022-10-27,59.3
+300,Bluewave Partners 299,Manufacturing,Mid-Market,1170,288787000.0,14,2022-01-03,84.7
+301,Nova Partners 300,Professional Services,Mid-Market,1192,301640000.0,17,2023-04-02,55.5
+302,Meridian Partners 301,Professional Services,Mid-Market,996,183473000.0,4,2022-01-06,62.1
+303,Cobalt Partners 302,Technology,SMB,79,12098000.0,18,2022-02-22,77.7
+304,Harbor Partners 303,Technology,SMB,224,56312000.0,24,2022-11-24,52.0
+305,Harbor Holdings 304,Healthcare,SMB,29,3603000.0,24,2023-01-12,87.2
+306,Atlas Partners 305,Professional Services,SMB,135,20556000.0,13,2023-02-16,61.9
+307,Anchor Ltd. 306,Professional Services,SMB,29,5768000.0,23,2022-05-24,17.2
+308,Ironwood Holdings 307,Technology,Enterprise,9422,1676235000.0,17,2022-10-14,76.8
+309,Nova Inc. 308,Professional Services,SMB,82,17304000.0,3,2022-07-19,61.9
+310,Harbor Partners 309,Technology,Mid-Market,2470,473365000.0,3,2023-11-09,73.4
+311,Lumen Partners 310,Healthcare,SMB,244,20314000.0,22,2023-06-09,55.3
+312,Harbor Inc. 311,Media & Telecom,Enterprise,48145,7986678000.0,18,2023-07-20,51.6
+313,Harbor Inc. 312,Manufacturing,SMB,155,34177000.0,10,2023-01-04,22.2
+314,Granite Ltd. 313,Technology,SMB,89,10383000.0,7,2023-02-18,79.1
+315,Atlas Holdings 314,Financial Services,SMB,77,11182000.0,23,2022-05-28,72.0
+316,Meridian Partners 315,Retail & eCommerce,Mid-Market,1646,396469000.0,16,2023-04-04,51.1
+317,Harbor Co. 316,Media & Telecom,Mid-Market,1157,136211000.0,24,2022-02-10,52.9
+318,Nova LLC 317,Media & Telecom,Enterprise,47523,7665163000.0,21,2023-07-07,40.2
+319,Orbit Inc. 318,Technology,SMB,120,10420000.0,4,2023-10-08,67.7
+320,Granite Ltd. 319,Technology,SMB,160,23412000.0,23,2023-04-10,37.9
+321,Atlas Holdings 320,Professional Services,SMB,36,5995000.0,6,2023-03-27,47.5
+322,Harbor Solutions 321,Manufacturing,Mid-Market,398,88751000.0,1,2023-02-07,44.7
+323,Anchor Holdings 322,Energy & Utilities,Mid-Market,833,184264000.0,22,2022-11-10,53.8
+324,Granite Partners 323,Education,SMB,75,10929000.0,18,2023-08-24,42.6
+325,Vertex Co. 324,Technology,Mid-Market,1261,324442000.0,7,2022-11-20,77.6
+326,Orbit Partners 325,Professional Services,Mid-Market,671,65546000.0,7,2023-05-23,42.6
+327,Silverline Partners 326,Technology,Enterprise,27465,6593517000.0,6,2023-08-28,57.8
+328,Meridian Partners 327,Financial Services,SMB,154,15753000.0,12,2022-09-04,47.7
+329,Crestline Holdings 328,Retail & eCommerce,SMB,98,16958000.0,15,2023-10-08,61.9
+330,Granite Solutions 329,Financial Services,SMB,146,37383000.0,22,2023-09-11,58.4
+331,Anchor Co. 330,Education,SMB,246,42386000.0,14,2023-06-03,59.3
+332,Cedar Group 331,Education,SMB,225,55131000.0,10,2022-02-23,100.0
+333,Bluewave Group 332,Media & Telecom,SMB,57,13134000.0,21,2022-05-09,70.8
+334,Cedar Partners 333,Media & Telecom,SMB,198,28346000.0,21,2023-09-28,21.1
+335,Summit LLC 334,Financial Services,SMB,161,31227000.0,12,2023-07-16,24.6
+336,Summit Solutions 335,Technology,SMB,241,46497000.0,1,2023-02-28,49.0
+337,Bluewave Co. 336,Government,Mid-Market,325,40783000.0,15,2023-08-11,100.0
+338,Vertex Partners 337,Media & Telecom,SMB,193,48331000.0,12,2022-02-17,68.3
+339,Summit Co. 338,Healthcare,Mid-Market,2163,553593000.0,17,2023-04-27,16.5
+340,Crestline Inc. 339,Financial Services,Mid-Market,1695,296851000.0,16,2023-01-09,68.3
+341,Harbor Holdings 340,Financial Services,SMB,78,13261000.0,9,2022-07-20,83.6
+342,Orbit LLC 341,Technology,SMB,184,29278000.0,18,2023-11-27,51.7
+343,Northgate Partners 342,Education,Enterprise,17303,2270522000.0,24,2022-11-19,30.4
+344,Meridian Inc. 343,Healthcare,Enterprise,55431,8325474000.0,13,2023-09-18,39.3
+345,Nova Partners 344,Professional Services,SMB,202,43886000.0,5,2023-08-03,55.2
+346,Cedar Solutions 345,Professional Services,Mid-Market,1652,225740000.0,14,2023-07-28,62.5
+347,Vantage Ltd. 346,Professional Services,SMB,87,9492000.0,21,2022-04-29,27.6
+348,Lumen Solutions 347,Healthcare,SMB,108,24971000.0,11,2022-06-02,67.8
+349,Bluewave Group 348,Healthcare,Mid-Market,415,79056000.0,23,2022-02-18,52.5
+350,Granite Co. 349,Government,Mid-Market,743,92270000.0,11,2023-01-31,43.7
+351,Summit Ltd. 350,Professional Services,SMB,215,48665000.0,21,2023-02-02,64.9
+352,Meridian Co. 351,Financial Services,SMB,168,35920000.0,20,2022-06-20,43.8
+353,Vertex Group 352,Energy & Utilities,Mid-Market,1003,119906000.0,18,2023-03-07,62.8
+354,Silverline Solutions 353,Technology,Mid-Market,293,53361000.0,16,2023-05-19,46.9
+355,Anchor Group 354,Energy & Utilities,Mid-Market,429,54866000.0,8,2022-06-18,92.5
+356,Granite Group 355,Technology,Enterprise,6975,1618850000.0,15,2023-04-13,70.9
+357,Cobalt Inc. 356,Technology,SMB,33,6893000.0,2,2022-03-06,57.9
+358,Cedar LLC 357,Financial Services,SMB,188,19664000.0,13,2022-03-10,89.5
+359,Northgate Group 358,Technology,Enterprise,7261,1100914000.0,19,2022-07-10,48.5
+360,Harbor Solutions 359,Technology,SMB,69,8032000.0,14,2023-08-07,61.8
+361,Cedar Co. 360,Technology,Mid-Market,2309,222097000.0,2,2022-07-29,59.5
+362,Bluewave Partners 361,Financial Services,SMB,139,26539000.0,16,2023-09-04,55.0
+363,Atlas Ltd. 362,Professional Services,SMB,58,13209000.0,11,2023-07-24,66.9
+364,Cobalt Holdings 363,Technology,Enterprise,24039,6060662000.0,1,2023-07-16,55.8
+365,Vertex Ltd. 364,Education,Mid-Market,502,68766000.0,20,2022-05-04,71.2
+366,Granite Holdings 365,Professional Services,Mid-Market,1799,174652000.0,20,2022-01-02,59.0
+367,Northgate Solutions 366,Technology,SMB,55,5331000.0,1,2022-05-01,29.5
+368,Falcon Solutions 367,Technology,SMB,110,12939000.0,1,2023-04-23,41.8
+369,Pinnacle Co. 368,Professional Services,Enterprise,42974,4377713000.0,24,2022-02-12,55.1
+370,Pinnacle Group 369,Professional Services,SMB,203,34980000.0,17,2023-10-27,50.9
+371,Cobalt LLC 370,Financial Services,Enterprise,41415,4585184000.0,3,2022-03-29,62.7
+372,Nova Ltd. 371,Professional Services,SMB,118,28443000.0,23,2022-07-09,70.5
+373,Anchor Ltd. 372,Technology,Enterprise,12255,3030643000.0,10,2022-05-11,78.1
+374,Silverline Group 373,Healthcare,SMB,85,20993000.0,4,2023-03-12,58.4
+375,Cedar LLC 374,Government,SMB,235,24537000.0,21,2023-05-07,67.1
+376,Orbit Group 375,Manufacturing,SMB,147,19428000.0,12,2023-04-25,94.1
+377,Meridian Solutions 376,Government,SMB,66,15279000.0,15,2022-04-08,83.5
+378,Meridian Ltd. 377,Financial Services,Mid-Market,2151,304106000.0,4,2023-12-02,66.6
+379,Harbor Holdings 378,Government,SMB,58,9074000.0,24,2022-11-23,40.3
+380,Meridian Inc. 379,Financial Services,SMB,58,13733000.0,20,2023-07-14,68.8
+381,Crestline Inc. 380,Healthcare,SMB,153,15195000.0,23,2022-05-12,80.9
+382,Harbor Ltd. 381,Manufacturing,SMB,183,23123000.0,5,2023-12-02,35.2
+383,Vertex Group 382,Manufacturing,Enterprise,4137,903047000.0,14,2023-09-30,61.9
+384,Northgate Group 383,Government,SMB,70,17307000.0,22,2023-04-03,55.3
+385,Silverline Partners 384,Technology,Mid-Market,700,132456000.0,10,2023-09-30,51.5
+386,Lumen Partners 385,Technology,SMB,233,45765000.0,13,2023-12-05,68.8
+387,Summit Holdings 386,Technology,Enterprise,22318,3836776000.0,14,2022-01-29,78.0
+388,Atlas LLC 387,Technology,SMB,105,21579000.0,4,2022-08-26,60.4
+389,Lumen Solutions 388,Professional Services,SMB,178,43522000.0,19,2023-12-04,59.0
+390,Vertex LLC 389,Healthcare,Mid-Market,648,125920000.0,14,2023-11-11,74.1
+391,Falcon Holdings 390,Media & Telecom,SMB,56,13911000.0,1,2022-04-01,46.7
+392,Anchor Inc. 391,Technology,Mid-Market,2431,562072000.0,3,2022-04-25,48.6
+393,Cobalt Co. 392,Education,Enterprise,38715,4667481000.0,24,2022-12-09,55.0
+394,Falcon Solutions 393,Financial Services,Mid-Market,2285,568778000.0,13,2023-07-03,37.6
+395,Ironwood LLC 394,Healthcare,Mid-Market,2055,397184000.0,15,2022-12-20,68.5
+396,Granite Holdings 395,Energy & Utilities,SMB,137,33961000.0,23,2023-08-19,33.5
+397,Silverline Solutions 396,Media & Telecom,SMB,176,35513000.0,24,2023-02-20,55.7
+398,Cobalt LLC 397,Energy & Utilities,SMB,68,17554000.0,13,2022-11-20,35.6
+399,Northgate Ltd. 398,Manufacturing,SMB,187,35797000.0,24,2023-10-15,51.2
+400,Anchor Inc. 399,Manufacturing,Mid-Market,2426,544616000.0,5,2022-08-19,37.2
+401,Cobalt Holdings 400,Education,SMB,27,2488000.0,16,2023-08-02,47.7
+402,Northgate Inc. 401,Manufacturing,Mid-Market,1477,383294000.0,19,2022-06-21,72.9
+403,Meridian LLC 402,Government,SMB,245,20838000.0,18,2023-05-13,65.1
+404,Orbit Holdings 403,Retail & eCommerce,Mid-Market,813,198738000.0,5,2023-05-15,43.4
+405,Northgate Ltd. 404,Retail & eCommerce,SMB,66,7152000.0,3,2022-03-31,80.5
+406,Bluewave Ltd. 405,Professional Services,Enterprise,28658,7340432000.0,13,2023-04-07,80.8
+407,Orbit Inc. 406,Education,SMB,196,17983000.0,24,2023-03-31,41.3
+408,Cedar Ltd. 407,Technology,Mid-Market,1513,196348000.0,18,2023-11-01,28.3
+409,Ironwood Solutions 408,Technology,Mid-Market,1311,161708000.0,20,2023-05-31,48.2
+410,Cobalt Group 409,Retail & eCommerce,SMB,82,11405000.0,2,2022-04-25,40.3
+411,Crestline LLC 410,Financial Services,SMB,67,13297000.0,8,2023-06-02,54.6
+412,Vantage Partners 411,Manufacturing,Mid-Market,1130,189253000.0,13,2023-08-29,61.9
+413,Cobalt Ltd. 412,Healthcare,SMB,5,934000.0,21,2022-01-01,92.0
+414,Vantage Solutions 413,Government,Mid-Market,922,127752000.0,11,2023-07-31,54.0
+415,Cedar Ltd. 414,Professional Services,SMB,70,15498000.0,2,2023-08-09,36.7
+416,Vertex LLC 415,Retail & eCommerce,SMB,225,50643000.0,7,2022-06-05,79.9
+417,Cobalt Partners 416,Healthcare,Mid-Market,1803,209974000.0,22,2023-09-27,40.3
+418,Anchor Partners 417,Manufacturing,Enterprise,10511,2424461000.0,19,2022-06-17,38.0
+419,Orbit LLC 418,Financial Services,SMB,35,3832000.0,2,2023-10-19,39.4
+420,Pinnacle Ltd. 419,Healthcare,Enterprise,49355,7312958000.0,5,2022-02-24,71.6
+421,Silverline Ltd. 420,Retail & eCommerce,SMB,217,22272000.0,24,2022-03-09,59.0
+422,Pinnacle LLC 421,Education,SMB,193,26783000.0,3,2023-03-11,55.8
+423,Cobalt Partners 422,Technology,SMB,165,29755000.0,19,2022-08-06,26.5
+424,Anchor Group 423,Technology,Mid-Market,1846,192518000.0,2,2023-03-22,57.0
+425,Atlas Solutions 424,Manufacturing,SMB,149,31751000.0,21,2023-05-10,100.0
+426,Atlas Partners 425,Energy & Utilities,SMB,158,18583000.0,22,2023-07-02,61.3
+427,Northgate Ltd. 426,Retail & eCommerce,Mid-Market,496,52787000.0,5,2022-03-30,53.3
+428,Meridian Ltd. 427,Technology,Enterprise,32677,6452489000.0,2,2022-05-27,40.6
+429,Vertex Holdings 428,Energy & Utilities,SMB,66,6976000.0,20,2022-12-29,22.0
+430,Nova Co. 429,Financial Services,SMB,68,11626000.0,12,2023-05-11,45.0
+431,Nova Group 430,Financial Services,Mid-Market,1922,282981000.0,1,2022-10-12,63.1
+432,Meridian Ltd. 431,Media & Telecom,Enterprise,5739,750855000.0,18,2023-06-22,62.4
+433,Ironwood Co. 432,Technology,SMB,175,25628000.0,5,2023-02-14,58.1
+434,Vantage LLC 433,Manufacturing,SMB,123,20766000.0,5,2023-10-27,26.6
+435,Atlas Ltd. 434,Retail & eCommerce,SMB,224,49992000.0,18,2022-01-15,73.1
+436,Falcon Co. 435,Manufacturing,Enterprise,30123,6222303000.0,8,2023-04-19,34.0
+437,Vertex Holdings 436,Education,Mid-Market,2314,486216000.0,11,2022-12-28,50.9
+438,Silverline Holdings 437,Manufacturing,Mid-Market,2085,370543000.0,24,2022-09-18,56.4
+439,Bluewave Inc. 438,Technology,SMB,96,9194000.0,9,2023-10-31,70.8
+440,Cedar Inc. 439,Manufacturing,Mid-Market,1553,190046000.0,22,2022-02-20,33.4
+441,Ironwood Solutions 440,Financial Services,Mid-Market,2367,373241000.0,4,2023-11-21,25.4
+442,Meridian Holdings 441,Technology,SMB,165,24363000.0,24,2023-04-20,38.2
+443,Anchor Group 442,Technology,SMB,218,23068000.0,9,2022-02-09,60.4
+444,Cedar Holdings 443,Professional Services,Enterprise,25740,4064120000.0,13,2023-04-04,58.0
+445,Cobalt Partners 444,Healthcare,Mid-Market,883,176651000.0,16,2023-02-06,56.8
+446,Vantage Ltd. 445,Healthcare,SMB,89,8525000.0,14,2022-12-23,38.2
+447,Bluewave Partners 446,Technology,SMB,220,20693000.0,1,2023-08-15,23.4
+448,Nova Ltd. 447,Healthcare,Mid-Market,2400,549574000.0,19,2023-09-30,74.6
+449,Cobalt LLC 448,Manufacturing,Enterprise,6628,621119000.0,12,2022-03-02,89.5
+450,Granite Ltd. 449,Retail & eCommerce,Enterprise,43254,9863719000.0,9,2022-12-13,36.9
+451,Ironwood Partners 450,Manufacturing,Enterprise,13601,2678478000.0,4,2023-07-03,84.7
+452,Pinnacle Co. 451,Energy & Utilities,SMB,119,24747000.0,18,2022-09-11,87.1
+453,Atlas LLC 452,Energy & Utilities,SMB,21,4721000.0,9,2022-07-04,63.6
+454,Lumen Co. 453,Technology,Mid-Market,627,123463000.0,19,2023-06-29,40.9
+455,Anchor Holdings 454,Technology,SMB,53,9714000.0,8,2022-12-31,50.0
+456,Bluewave Partners 455,Technology,SMB,121,24822000.0,14,2023-04-28,78.2
+457,Northgate Co. 456,Retail & eCommerce,SMB,191,27800000.0,18,2022-08-04,73.2
+458,Granite Partners 457,Technology,Enterprise,37843,9716680000.0,17,2022-02-16,79.3
+459,Atlas Ltd. 458,Professional Services,Enterprise,18977,1532982000.0,3,2023-05-19,71.0
+460,Nova Partners 459,Government,SMB,210,27061000.0,1,2022-05-24,44.6
+461,Summit Holdings 460,Professional Services,SMB,30,4246000.0,14,2022-11-26,30.8
+462,Silverline Holdings 461,Financial Services,SMB,33,2870000.0,14,2022-07-09,43.4
+463,Vertex Inc. 462,Media & Telecom,Mid-Market,1831,392120000.0,5,2023-01-25,47.7
+464,Silverline Solutions 463,Technology,SMB,88,10053000.0,10,2023-08-30,38.7
+465,Northgate LLC 464,Healthcare,SMB,77,8072000.0,12,2022-11-21,79.5
+466,Vantage Ltd. 465,Healthcare,Enterprise,17676,3154461000.0,20,2022-04-19,50.6
+467,Harbor Holdings 466,Media & Telecom,Enterprise,35281,6452190000.0,13,2023-07-31,61.4
+468,Silverline Co. 467,Retail & eCommerce,SMB,209,51794000.0,22,2023-03-15,72.3
+469,Harbor LLC 468,Professional Services,SMB,173,29842000.0,3,2023-11-04,46.1
+470,Falcon Inc. 469,Technology,SMB,208,18297000.0,6,2023-06-14,66.4
+471,Cobalt Inc. 470,Media & Telecom,Mid-Market,2324,583753000.0,4,2022-11-17,69.0
+472,Lumen Co. 471,Financial Services,Enterprise,55407,10334675000.0,1,2022-04-25,24.7
+473,Crestline Group 472,Financial Services,SMB,198,47973000.0,6,2023-10-29,72.0
+474,Orbit Holdings 473,Media & Telecom,SMB,189,27897000.0,17,2023-10-30,85.9
+475,Harbor Inc. 474,Healthcare,Enterprise,41915,3516716000.0,2,2023-03-29,86.7
+476,Harbor Holdings 475,Healthcare,SMB,160,19423000.0,19,2023-10-08,33.1
+477,Falcon Inc. 476,Retail & eCommerce,Mid-Market,613,127137000.0,16,2022-09-10,66.1
+478,Harbor Holdings 477,Technology,SMB,72,14952000.0,14,2022-10-18,40.8
+479,Northgate Solutions 478,Healthcare,SMB,212,48639000.0,23,2023-11-15,51.4
+480,Silverline LLC 479,Manufacturing,Enterprise,41034,7829236000.0,12,2022-12-05,70.8
+481,Falcon LLC 480,Technology,Mid-Market,1332,283665000.0,24,2023-02-09,76.5
+482,Ironwood LLC 481,Professional Services,Enterprise,19398,2196289000.0,18,2023-01-23,51.5
+483,Granite Co. 482,Retail & eCommerce,SMB,192,33159000.0,16,2023-10-19,36.1
+484,Harbor Solutions 483,Healthcare,SMB,106,13166000.0,17,2023-01-04,42.7
+485,Vertex LLC 484,Healthcare,SMB,208,38322000.0,2,2022-12-15,89.5
+486,Granite Partners 485,Financial Services,SMB,163,38950000.0,21,2023-08-28,68.4
+487,Anchor Group 486,Retail & eCommerce,Enterprise,39351,5998357000.0,19,2023-03-14,14.8
+488,Nova Partners 487,Energy & Utilities,SMB,24,6083000.0,2,2022-11-12,56.2
+489,Harbor Holdings 488,Media & Telecom,Enterprise,33038,4743478000.0,17,2022-10-16,64.0
+490,Granite Holdings 489,Healthcare,SMB,41,6559000.0,13,2023-11-19,42.4
+491,Vantage Holdings 490,Healthcare,Mid-Market,1399,241478000.0,10,2023-02-26,74.2
+492,Meridian Partners 491,Financial Services,SMB,129,28488000.0,17,2022-11-12,93.8
+493,Summit Partners 492,Retail & eCommerce,SMB,105,18011000.0,23,2023-05-12,16.2
+494,Vertex Holdings 493,Financial Services,SMB,5,927000.0,18,2022-08-16,77.0
+495,Bluewave Inc. 494,Education,SMB,68,6242000.0,11,2022-04-27,36.0
+496,Falcon Ltd. 495,Retail & eCommerce,SMB,143,25236000.0,16,2023-09-18,60.9
+497,Harbor Solutions 496,Healthcare,Mid-Market,355,73670000.0,11,2022-08-09,36.5
+498,Silverline Inc. 497,Healthcare,SMB,187,24623000.0,6,2022-04-03,40.2
+499,Northgate Partners 498,Healthcare,Enterprise,54603,8000008000.0,14,2022-04-16,35.5
+500,Crestline Co. 499,Technology,SMB,22,5636000.0,20,2022-10-05,32.9

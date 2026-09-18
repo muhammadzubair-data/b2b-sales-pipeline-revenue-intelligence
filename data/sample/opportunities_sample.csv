@@ -1,0 +1,501 @@
+opportunity_id,account_id,contact_id,lead_id,rep_id,product_id,source,created_date,deal_value,discount_requested_pct,num_stakeholders,expected_close_date,actual_close_date,stage,stage_reached_before_close,close_status,lost_reason,sales_cycle_days_planned
+1,44490,88943,6,112,9,Inbound - Web,2024-02-24,14300.0,8.9,3,2024-05-05,2024-05-05,Closed Won,Negotiation,Closed Won,,71
+2,40983,82012,11,99,12,Inbound - Web,2024-11-23,343000.0,9.6,1,2025-03-23,2025-03-23,Closed Lost,Proposal,Closed Lost,Feature Gap,120
+3,100612,201266,16,109,8,Referral,2024-11-24,104500.0,17.0,2,2025-02-03,2025-02-03,Closed Lost,Proposal,Closed Lost,Chose Competitor,71
+4,93470,186994,20,109,16,Partner Channel,2024-10-16,185800.0,9.0,7,2025-02-24,2025-02-24,Closed Won,Negotiation,Closed Won,,131
+5,14512,29075,22,44,7,Inbound - Web,2025-06-24,40000.0,1.3,3,2025-09-07,2025-09-07,Closed Won,Negotiation,Closed Won,,75
+6,6276,12626,24,102,16,Inbound - Web,2025-07-25,99300.0,8.6,2,2025-09-12,2025-09-12,Closed Lost,Negotiation,Closed Lost,No Decision / Timing,49
+7,12772,25567,25,102,15,Referral,2024-08-28,67900.0,11.3,2,2024-10-12,2024-10-12,Closed Lost,Proposal,Closed Lost,Champion Left Company,45
+8,59280,118601,30,138,13,Inbound - Web,2026-06-11,349200.0,7.9,6,2026-10-14,,Negotiation,Negotiation,Open,,125
+9,107430,214966,37,178,9,Inbound - Web,2026-02-12,21700.0,15.6,5,2026-05-06,2026-05-06,Closed Lost,Proposal,Closed Lost,Feature Gap,83
+10,41255,82546,39,64,11,Outbound - Cold Call,2025-01-22,17200.0,8.7,6,2025-04-28,2025-04-28,Closed Lost,Proposal,Closed Lost,Budget Constraints,96
+11,75871,151774,49,11,15,Outbound - Email,2025-07-26,26400.0,10.3,2,2025-10-16,2025-10-16,Closed Won,Negotiation,Closed Won,,82
+12,60897,121840,60,157,8,Outbound - Cold Call,2024-03-05,84400.0,9.0,3,2024-05-17,2024-05-17,Closed Lost,Negotiation,Closed Lost,Pricing Too High,73
+13,19623,39263,63,129,8,Referral,2024-03-13,41700.0,9.8,3,2024-05-16,2024-05-16,Closed Lost,Negotiation,Closed Lost,Champion Left Company,64
+14,119912,239940,64,9,6,Referral,2024-07-30,1222000.0,22.2,7,2024-11-03,2024-11-03,Closed Lost,Negotiation,Closed Lost,Champion Left Company,96
+15,104402,208975,70,69,8,Outbound - Cold Call,2024-08-20,25200.0,6.5,5,2024-10-28,2024-10-28,Closed Won,Negotiation,Closed Won,,69
+16,93911,187885,71,23,15,Inbound - Web,2025-09-27,18100.0,0.3,3,2025-12-01,2025-12-01,Closed Lost,Negotiation,Closed Lost,Champion Left Company,65
+17,3486,6957,72,173,14,Trade Show / Event,2024-12-18,6100.0,0.0,1,2025-01-21,2025-01-21,Closed Lost,Proposal,Closed Lost,Budget Constraints,34
+18,111072,222240,80,84,15,Partner Channel,2024-08-24,9100.0,0.1,4,2024-10-18,2024-10-18,Closed Lost,Proposal,Closed Lost,Feature Gap,55
+19,46356,92658,83,63,16,Partner Channel,2025-07-16,112000.0,16.6,2,2025-09-02,2025-09-02,Closed Won,Negotiation,Closed Won,,48
+20,44355,88675,84,9,10,Referral,2024-04-29,123300.0,10.3,4,2024-06-28,2024-06-28,Closed Lost,Proposal,Closed Lost,Feature Gap,60
+21,75332,150683,89,86,12,Referral,2025-01-04,251000.0,8.3,7,2025-05-01,2025-05-01,Closed Won,Negotiation,Closed Won,,117
+22,46840,93606,91,152,11,Outbound - Cold Call,2025-07-09,19700.0,0.0,2,2025-08-03,2025-08-03,Closed Won,Negotiation,Closed Won,,25
+23,34446,68944,97,121,7,Inbound - Web,2024-07-19,164900.0,7.9,1,2024-09-09,2024-09-09,Closed Won,Negotiation,Closed Won,,52
+24,86634,173263,104,123,11,Inbound - Web,2024-06-29,33400.0,8.0,4,2024-09-04,2024-09-04,Closed Won,Negotiation,Closed Won,,67
+25,50587,101059,105,23,15,Trade Show / Event,2024-08-08,93800.0,9.2,6,2024-11-06,2024-11-06,Closed Won,Negotiation,Closed Won,,90
+26,69981,139986,106,108,8,Inbound - Web,2025-12-07,102800.0,8.4,4,2026-03-24,2026-03-24,Closed Won,Negotiation,Closed Won,,107
+27,104137,208431,108,3,5,Inbound - Web,2026-02-26,89400.0,6.6,2,2026-04-20,2026-04-20,Closed Won,Negotiation,Closed Won,,53
+28,54055,108087,110,170,14,Inbound - Web,2024-03-02,26500.0,0.0,5,2024-07-11,2024-07-11,Closed Lost,Negotiation,Closed Lost,Budget Constraints,131
+29,116027,232203,111,152,16,Outbound - Email,2024-06-29,72000.0,13.4,5,2024-09-16,2024-09-16,Closed Lost,Proposal,Closed Lost,No Decision / Timing,79
+30,27751,55610,112,98,10,Outbound - Email,2026-04-14,118300.0,18.8,1,2026-05-05,2026-05-05,Closed Won,Negotiation,Closed Won,,21
+31,71615,143267,116,179,1,Trade Show / Event,2025-04-20,243600.0,5.4,5,2025-07-09,2025-07-09,Closed Won,Negotiation,Closed Won,,80
+32,791,1602,122,23,7,Inbound - Web,2026-01-15,56200.0,13.6,4,2026-03-25,2026-03-25,Closed Lost,Proposal,Closed Lost,Pricing Too High,69
+33,76862,153738,125,133,8,Inbound - Web,2026-05-09,248000.0,16.1,6,2026-11-12,,Negotiation,Negotiation,Open,,187
+34,5455,10979,128,108,2,Inbound - Web,2026-04-13,758500.0,10.8,3,2026-06-03,2026-06-03,Closed Lost,Negotiation,Closed Lost,Feature Gap,51
+35,91822,183649,133,114,14,Partner Channel,2024-09-03,10700.0,3.5,3,2025-01-07,2025-01-07,Closed Lost,Negotiation,Closed Lost,Champion Left Company,126
+36,78594,157179,134,155,7,Trade Show / Event,2026-08-07,89800.0,0.0,2,2026-10-28,,Proposal,Proposal,Open,,82
+37,109883,219865,138,43,15,Referral,2025-06-03,8400.0,3.9,1,2025-07-07,2025-07-07,Closed Lost,Proposal,Closed Lost,Pricing Too High,34
+38,45446,90850,139,79,5,Trade Show / Event,2025-07-22,47900.0,12.4,4,2025-10-25,2025-10-25,Closed Won,Negotiation,Closed Won,,95
+39,37371,74811,141,25,1,Partner Channel,2026-01-19,116300.0,7.7,4,2026-03-14,2026-03-14,Closed Won,Negotiation,Closed Won,,54
+40,49127,98178,151,52,16,Referral,2025-06-28,219500.0,17.5,5,2025-12-14,2025-12-14,Closed Won,Negotiation,Closed Won,,169
+41,90935,181877,155,174,4,Outbound - Cold Call,2024-06-22,414900.0,10.7,4,2024-08-12,2024-08-12,Closed Lost,Negotiation,Closed Lost,Budget Constraints,51
+42,78928,157853,160,40,5,Inbound - Web,2026-07-21,210400.0,17.5,10,2027-01-22,,Needs Analysis,Needs Analysis,Open,,185
+43,68560,137140,161,55,15,Inbound - Web,2024-08-26,149500.0,17.0,7,2025-01-13,2025-01-13,Closed Lost,Proposal,Closed Lost,Pricing Too High,140
+44,92295,184608,164,80,16,Referral,2026-07-19,10700.0,6.9,3,2026-08-31,2026-08-31,Closed Lost,Proposal,Closed Lost,Pricing Too High,43
+45,84350,168647,166,78,15,Inbound - Web,2025-07-07,8000.0,2.7,3,2025-08-08,2025-08-08,Closed Won,Negotiation,Closed Won,,32
+46,35139,70349,172,142,14,Inbound - Web,2026-06-06,7600.0,0.0,3,2026-07-15,2026-07-15,Closed Lost,Proposal,Closed Lost,Pricing Too High,39
+47,69635,139310,174,24,11,Outbound - Email,2024-10-26,24500.0,6.8,2,2024-12-19,2024-12-19,Closed Won,Negotiation,Closed Won,,54
+48,35364,70812,181,155,9,Inbound - Web,2025-01-11,10100.0,8.2,1,2025-02-22,2025-02-22,Closed Lost,Negotiation,Closed Lost,Pricing Too High,42
+49,10696,21431,182,128,6,Outbound - Email,2025-05-08,86300.0,18.9,3,2025-06-24,2025-06-24,Closed Won,Negotiation,Closed Won,,47
+50,21703,43452,185,170,6,Outbound - Email,2024-06-03,224400.0,13.1,2,2024-07-24,2024-07-24,Closed Lost,Negotiation,Closed Lost,Budget Constraints,51
+51,61026,122107,188,76,15,Partner Channel,2026-07-03,57900.0,14.5,8,2026-11-09,,Proposal,Proposal,Open,,129
+52,94536,189131,189,81,11,Partner Channel,2025-04-11,114000.0,21.5,4,2025-12-13,2025-12-13,Closed Lost,Proposal,Closed Lost,Champion Left Company,246
+53,64629,129299,195,18,4,Referral,2025-04-25,546800.0,9.0,2,2025-05-25,2025-05-25,Closed Lost,Proposal,Closed Lost,Chose Competitor,30
+54,118639,237355,197,99,9,Trade Show / Event,2025-01-12,83500.0,10.7,8,2025-05-28,2025-05-28,Closed Lost,Negotiation,Closed Lost,Feature Gap,136
+55,107719,215536,198,179,5,Referral,2026-05-03,16000.0,0.0,1,2026-05-31,2026-05-31,Closed Won,Negotiation,Closed Won,,28
+56,109242,218581,200,70,7,Outbound - Email,2025-08-09,53000.0,6.5,3,2025-10-04,2025-10-04,Closed Lost,Negotiation,Closed Lost,Chose Competitor,56
+57,29448,58981,202,158,10,Referral,2024-03-02,39000.0,3.1,2,2024-04-17,2024-04-17,Closed Won,Negotiation,Closed Won,,46
+58,3321,6622,212,55,13,Trade Show / Event,2026-02-11,21900.0,13.5,1,2026-03-17,2026-03-17,Closed Won,Negotiation,Closed Won,,34
+59,50786,101458,220,158,7,Inbound - Web,2025-08-22,159300.0,17.8,3,2025-12-01,2025-12-01,Closed Won,Negotiation,Closed Won,,101
+60,91685,183374,224,19,6,Referral,2025-11-02,316900.0,8.7,3,2025-12-30,2025-12-30,Closed Lost,Proposal,Closed Lost,No Decision / Timing,58
+61,113013,226160,226,30,16,Inbound - Web,2025-04-23,6500.0,10.7,3,2025-06-25,2025-06-25,Closed Lost,Proposal,Closed Lost,Champion Left Company,63
+62,18488,36976,229,49,5,Outbound - Email,2026-04-27,85400.0,5.4,4,2026-07-28,2026-07-28,Closed Won,Negotiation,Closed Won,,92
+63,91654,183314,230,73,3,Partner Channel,2026-03-22,86600.0,12.4,2,2026-05-06,2026-05-06,Closed Won,Negotiation,Closed Won,,45
+64,86027,172027,231,1,16,Referral,2025-07-24,243900.0,12.0,5,2025-12-14,2025-12-14,Closed Won,Negotiation,Closed Won,,143
+65,92074,184156,237,72,13,Partner Channel,2026-05-02,49800.0,8.7,2,2026-07-28,2026-07-28,Closed Won,Negotiation,Closed Won,,87
+66,70253,140532,238,123,7,Inbound - Web,2025-04-18,13200.0,2.1,3,2025-06-05,2025-06-05,Closed Lost,Negotiation,Closed Lost,Pricing Too High,48
+67,83312,166585,241,72,16,Trade Show / Event,2025-09-06,68900.0,11.1,4,2025-11-08,2025-11-08,Closed Lost,Proposal,Closed Lost,Chose Competitor,63
+68,45536,91036,242,6,4,Trade Show / Event,2024-04-07,869600.0,13.9,2,2024-09-16,2024-09-16,Closed Lost,Proposal,Closed Lost,No Decision / Timing,162
+69,15050,30182,248,2,9,Outbound - Cold Call,2025-11-16,35200.0,6.4,4,2025-12-27,2025-12-27,Closed Won,Negotiation,Closed Won,,41
+70,107578,215265,249,147,11,Inbound - Web,2024-08-26,83400.0,12.1,1,2024-10-31,2024-10-31,Closed Lost,Negotiation,Closed Lost,Budget Constraints,66
+71,38804,77631,250,130,6,Inbound - Web,2024-03-06,384300.0,6.5,3,2024-05-04,2024-05-04,Closed Won,Negotiation,Closed Won,,59
+72,118760,237593,253,95,16,Inbound - Web,2024-03-13,31800.0,7.0,3,2024-05-31,2024-05-31,Closed Won,Negotiation,Closed Won,,79
+73,45131,90210,254,12,15,Trade Show / Event,2025-12-01,17900.0,3.8,1,2025-12-29,2025-12-29,Closed Lost,Proposal,Closed Lost,Chose Competitor,28
+74,62838,125735,258,92,3,Referral,2025-03-02,101500.0,0.0,4,2025-05-01,2025-05-01,Closed Lost,Proposal,Closed Lost,Pricing Too High,60
+75,20293,40619,266,108,16,Outbound - Email,2025-10-02,41500.0,13.2,3,2026-01-24,2026-01-24,Closed Won,Negotiation,Closed Won,,114
+76,101242,202537,267,109,14,Inbound - Web,2025-01-16,5800.0,7.9,1,2025-02-19,2025-02-19,Closed Lost,Proposal,Closed Lost,Chose Competitor,34
+77,76440,152908,268,107,4,Inbound - Web,2024-07-01,370500.0,12.0,1,2024-07-28,2024-07-28,Closed Won,Negotiation,Closed Won,,27
+78,43269,86534,269,170,15,Inbound - Web,2025-09-17,48600.0,13.7,1,2025-11-06,2025-11-06,Closed Lost,Proposal,Closed Lost,Chose Competitor,50
+79,7573,15177,272,5,2,Outbound - Cold Call,2026-05-29,143000.0,6.4,3,2026-09-26,,Negotiation,Negotiation,Open,,120
+80,103872,207913,276,112,6,Inbound - Web,2024-08-28,202100.0,2.6,4,2024-11-07,2024-11-07,Closed Lost,Proposal,Closed Lost,Budget Constraints,71
+81,45189,90323,277,160,6,Inbound - Web,2026-02-21,175900.0,0.0,5,2026-04-20,2026-04-20,Closed Lost,Proposal,Closed Lost,Feature Gap,58
+82,77949,155902,278,159,7,Outbound - Cold Call,2026-08-13,111600.0,16.1,7,2026-12-27,,Needs Analysis,Needs Analysis,Open,,136
+83,55783,111555,280,28,6,Referral,2025-03-09,200800.0,6.4,6,2025-09-18,2025-09-18,Closed Lost,Proposal,Closed Lost,Chose Competitor,193
+84,39245,78507,281,122,12,Outbound - Email,2025-08-13,69500.0,0.9,2,2025-09-16,2025-09-16,Closed Won,Negotiation,Closed Won,,34
+85,28547,57193,285,45,1,Outbound - Cold Call,2024-12-21,263500.0,16.3,4,2025-04-05,2025-04-05,Closed Lost,Negotiation,Closed Lost,Chose Competitor,105
+86,92850,185758,291,7,12,Partner Channel,2026-03-11,78300.0,3.7,1,2026-04-25,2026-04-25,Closed Lost,Negotiation,Closed Lost,No Decision / Timing,45
+87,109382,218869,296,128,7,Referral,2025-10-22,75200.0,11.6,4,2025-12-31,2025-12-31,Closed Lost,Negotiation,Closed Lost,No Decision / Timing,70
+88,28496,57091,298,117,14,Referral,2026-01-30,6600.0,9.9,3,2026-03-25,2026-03-25,Closed Lost,Proposal,Closed Lost,Pricing Too High,54
+89,52372,104678,299,116,8,Inbound - Web,2026-04-27,46300.0,9.8,1,2026-07-11,2026-07-11,Closed Lost,Proposal,Closed Lost,Chose Competitor,75
+90,52086,104104,301,117,5,Referral,2025-03-21,69300.0,11.1,3,2025-07-06,2025-07-06,Closed Won,Negotiation,Closed Won,,107
+91,101622,203328,304,81,3,Trade Show / Event,2024-04-24,314200.0,17.7,1,2024-06-09,2024-06-09,Closed Lost,Negotiation,Closed Lost,Budget Constraints,46
+92,5073,10197,305,5,8,Inbound - Web,2024-02-13,270700.0,5.0,4,2024-04-19,2024-04-19,Closed Lost,Proposal,Closed Lost,Champion Left Company,66
+93,24591,49220,306,145,1,Outbound - Email,2026-01-12,474000.0,15.2,2,2026-04-07,2026-04-07,Closed Lost,Negotiation,Closed Lost,Feature Gap,85
+94,119053,238187,311,66,16,Trade Show / Event,2026-03-16,161300.0,9.6,1,2026-04-26,2026-04-26,Closed Lost,Negotiation,Closed Lost,Pricing Too High,41
+95,105000,210164,312,81,6,Partner Channel,2025-04-12,324600.0,3.4,2,2025-05-20,2025-05-20,Closed Lost,Negotiation,Closed Lost,Chose Competitor,38
+96,70237,140501,313,129,14,Referral,2025-12-12,13300.0,9.6,6,2026-01-19,2026-01-19,Closed Lost,Negotiation,Closed Lost,No Decision / Timing,38
+97,11416,22872,318,78,13,Referral,2024-12-13,25300.0,9.1,3,2025-02-03,2025-02-03,Closed Lost,Proposal,Closed Lost,Budget Constraints,52
+98,2909,5804,319,79,14,Inbound - Web,2024-05-10,4400.0,7.1,2,2024-06-28,2024-06-28,Closed Lost,Negotiation,Closed Lost,Chose Competitor,49
+99,106123,212317,320,145,5,Partner Channel,2025-03-01,152600.0,15.6,10,2026-04-05,2026-04-05,Closed Lost,Negotiation,Closed Lost,Budget Constraints,400
+100,32061,64229,321,63,6,Trade Show / Event,2026-05-25,115500.0,6.8,2,2026-06-30,2026-06-30,Closed Won,Negotiation,Closed Won,,36
+101,82676,165309,325,81,13,Outbound - Email,2026-01-10,21900.0,3.4,4,2026-02-22,2026-02-22,Closed Lost,Proposal,Closed Lost,Pricing Too High,43
+102,32638,65365,330,82,11,Inbound - Web,2024-07-27,31400.0,10.4,2,2024-10-09,2024-10-09,Closed Won,Negotiation,Closed Won,,74
+103,119925,239963,331,167,3,Inbound - Web,2024-11-12,563400.0,16.0,2,2024-12-16,2024-12-16,Closed Won,Negotiation,Closed Won,,34
+104,53830,107650,332,56,8,Referral,2024-04-07,131600.0,8.1,4,2024-08-08,2024-08-08,Closed Lost,Proposal,Closed Lost,Champion Left Company,123
+105,79660,159299,334,92,7,Partner Channel,2026-07-21,90600.0,4.6,6,2026-11-23,,Proposal,Proposal,Open,,125
+106,107887,215891,338,8,1,Outbound - Cold Call,2024-02-16,87200.0,9.5,1,2024-04-11,2024-04-11,Closed Lost,Negotiation,Closed Lost,No Decision / Timing,55
+107,80377,160736,339,32,15,Inbound - Web,2025-05-11,147500.0,6.8,6,2025-12-13,2025-12-13,Closed Won,Negotiation,Closed Won,,216
+108,29647,59403,346,47,13,Outbound - Email,2024-01-12,19200.0,6.0,1,2024-03-02,2024-03-02,Closed Won,Negotiation,Closed Won,,50
+109,58724,117460,348,150,14,Outbound - Cold Call,2024-10-17,20300.0,3.7,6,2025-01-18,2025-01-18,Closed Won,Negotiation,Closed Won,,93
+110,45168,90280,351,30,1,Partner Channel,2025-04-29,304800.0,23.6,5,2025-07-28,2025-07-28,Closed Won,Negotiation,Closed Won,,90
+111,86673,173330,361,88,10,Referral,2026-04-25,58200.0,1.9,2,2026-06-22,2026-06-22,Closed Lost,Negotiation,Closed Lost,Feature Gap,58
+112,33429,66902,363,39,8,Partner Channel,2026-02-14,21200.0,4.7,2,2026-03-18,2026-03-18,Closed Won,Negotiation,Closed Won,,32
+113,19786,39596,366,158,4,Inbound - Web,2024-10-26,388100.0,19.6,3,2025-01-05,2025-01-05,Closed Lost,Negotiation,Closed Lost,Champion Left Company,71
+114,56293,112578,367,162,15,Referral,2025-09-21,19300.0,0.0,1,2025-12-17,2025-12-17,Closed Lost,Proposal,Closed Lost,Pricing Too High,87
+115,99942,199890,374,158,12,Trade Show / Event,2024-05-08,13000.0,0.6,2,2024-06-28,2024-06-28,Closed Lost,Negotiation,Closed Lost,Feature Gap,51
+116,51533,102997,377,102,8,Inbound - Web,2024-09-16,416300.0,11.1,5,2025-01-06,2025-01-06,Closed Won,Negotiation,Closed Won,,112
+117,87118,174216,379,154,8,Outbound - Cold Call,2025-03-03,62600.0,2.6,2,2025-04-24,2025-04-24,Closed Lost,Proposal,Closed Lost,Feature Gap,52
+118,108056,216220,386,136,12,Outbound - Email,2025-06-12,69300.0,0.0,2,2025-06-30,2025-06-30,Closed Won,Negotiation,Closed Won,,18
+119,86293,172572,390,19,13,Outbound - Cold Call,2025-12-24,37500.0,1.1,1,2026-03-02,2026-03-02,Closed Lost,Proposal,Closed Lost,Feature Gap,68
+120,51110,102136,396,108,1,Referral,2024-09-27,247400.0,9.0,2,2024-11-20,2024-11-20,Closed Won,Negotiation,Closed Won,,54
+121,71031,142082,397,52,15,Outbound - Email,2025-03-10,56500.0,17.2,2,2025-07-09,2025-07-09,Closed Won,Negotiation,Closed Won,,121
+122,10863,21768,399,31,4,Inbound - Web,2024-06-17,2300200.0,14.9,7,2024-09-16,2024-09-16,Closed Won,Negotiation,Closed Won,,91
+123,7973,15978,401,147,16,Inbound - Web,2026-04-29,23600.0,0.0,2,2026-06-05,2026-06-05,Closed Won,Negotiation,Closed Won,,37
+124,45244,90428,404,145,14,Referral,2025-03-16,14600.0,0.0,6,2025-06-01,2025-06-01,Closed Lost,Proposal,Closed Lost,Champion Left Company,77
+125,11411,22861,405,91,12,Outbound - Cold Call,2024-11-08,24100.0,4.2,3,2024-11-25,2024-11-25,Closed Won,Negotiation,Closed Won,,17
+126,70570,141164,408,127,14,Partner Channel,2025-06-10,19700.0,13.1,4,2025-07-22,2025-07-22,Closed Lost,Negotiation,Closed Lost,Pricing Too High,42
+127,55492,110964,409,74,8,Outbound - Cold Call,2025-02-23,244500.0,13.6,3,2025-06-23,2025-06-23,Closed Lost,Negotiation,Closed Lost,No Decision / Timing,120
+128,86244,172480,414,71,8,Referral,2025-03-02,91900.0,9.7,1,2025-04-18,2025-04-18,Closed Won,Negotiation,Closed Won,,47
+129,9017,18127,415,79,8,Trade Show / Event,2024-02-18,39700.0,17.8,3,2024-04-28,2024-04-28,Closed Lost,Negotiation,Closed Lost,Champion Left Company,70
+130,80187,160359,421,137,1,Outbound - Email,2024-06-05,584700.0,7.6,7,2024-08-29,2024-08-29,Closed Lost,Proposal,Closed Lost,No Decision / Timing,85
+131,39345,78704,422,145,9,Partner Channel,2024-12-29,30600.0,1.8,2,2025-02-25,2025-02-25,Closed Lost,Proposal,Closed Lost,Chose Competitor,58
+132,87615,175210,423,55,5,Outbound - Email,2025-07-31,252200.0,15.8,3,2025-10-30,2025-10-30,Closed Lost,Negotiation,Closed Lost,No Decision / Timing,91
+133,8003,16034,425,166,13,Referral,2024-02-20,13500.0,7.9,3,2024-04-27,2024-04-27,Closed Lost,Proposal,Closed Lost,No Decision / Timing,67
+134,60053,120170,442,33,14,Outbound - Cold Call,2024-04-24,14200.0,7.0,2,2024-07-18,2024-07-18,Closed Lost,Negotiation,Closed Lost,Pricing Too High,85
+135,69419,138863,446,122,9,Inbound - Web,2025-02-18,58700.0,16.4,5,2025-05-27,2025-05-27,Closed Lost,Negotiation,Closed Lost,Budget Constraints,98
+136,101688,203466,449,10,5,Partner Channel,2025-09-10,65800.0,19.4,2,2025-12-04,2025-12-04,Closed Won,Negotiation,Closed Won,,85
+137,18268,36534,450,152,12,Inbound - Web,2025-03-12,88800.0,19.2,3,2025-09-08,2025-09-08,Closed Won,Negotiation,Closed Won,,180
+138,5266,10591,451,165,16,Trade Show / Event,2024-06-15,25900.0,0.0,1,2024-08-12,2024-08-12,Closed Won,Negotiation,Closed Won,,58
+139,3788,7560,457,136,10,Inbound - Web,2024-05-23,462600.0,11.8,6,2024-09-13,2024-09-13,Closed Lost,Proposal,Closed Lost,Champion Left Company,113
+140,22489,45014,458,29,6,Inbound - Web,2024-10-01,2040300.0,27.5,6,2025-01-25,2025-01-25,Closed Lost,Proposal,Closed Lost,Feature Gap,116
+141,98411,196864,461,46,6,Trade Show / Event,2025-08-07,307400.0,15.0,1,2025-09-04,2025-09-04,Closed Lost,Proposal,Closed Lost,Champion Left Company,28
+142,26216,52521,463,53,16,Referral,2025-05-01,48200.0,3.5,1,2025-05-29,2025-05-29,Closed Won,Negotiation,Closed Won,,28
+143,99998,200008,464,30,7,Referral,2024-08-04,19500.0,7.6,3,2024-10-17,2024-10-17,Closed Won,Negotiation,Closed Won,,74
+144,23486,47035,465,170,14,Referral,2026-08-15,5300.0,7.1,2,2026-09-11,2026-09-11,Closed Won,Negotiation,Closed Won,,27
+145,30054,60233,469,142,9,Inbound - Web,2025-04-07,96400.0,9.4,2,2025-06-09,2025-06-09,Closed Lost,Negotiation,Closed Lost,Champion Left Company,63
+146,61370,122792,471,24,8,Outbound - Cold Call,2025-04-19,27600.0,8.0,3,2025-05-26,2025-05-26,Closed Lost,Negotiation,Closed Lost,Champion Left Company,37
+147,34235,68534,472,152,2,Inbound - Web,2024-11-30,177900.0,11.7,1,2024-12-23,2024-12-23,Closed Won,Negotiation,Closed Won,,23
+148,16802,33643,474,77,12,Trade Show / Event,2024-06-08,72700.0,6.6,6,2024-08-28,2024-08-28,Closed Lost,Proposal,Closed Lost,No Decision / Timing,81
+149,77655,155308,478,13,6,Outbound - Email,2026-02-28,153100.0,17.1,1,2026-04-01,2026-04-01,Closed Won,Negotiation,Closed Won,,32
+150,93497,187056,480,75,15,Inbound - Web,2025-01-26,24100.0,11.0,6,2025-04-11,2025-04-11,Closed Lost,Proposal,Closed Lost,Champion Left Company,75
+151,86145,172266,481,8,5,Referral,2026-06-18,85500.0,8.6,1,2026-07-23,2026-07-23,Closed Won,Negotiation,Closed Won,,35
+152,48184,96305,482,30,5,Outbound - Email,2024-12-18,78300.0,6.3,6,2025-04-17,2025-04-17,Closed Lost,Proposal,Closed Lost,Champion Left Company,120
+153,10883,21805,483,73,4,Partner Channel,2026-05-28,101300.0,17.3,4,2026-08-01,2026-08-01,Closed Lost,Proposal,Closed Lost,Champion Left Company,65
+154,85352,170702,485,144,2,Referral,2025-01-25,293300.0,16.0,5,2025-03-24,2025-03-24,Closed Lost,Proposal,Closed Lost,Pricing Too High,58
+155,4813,9661,486,43,11,Referral,2025-04-01,40000.0,10.7,6,2025-06-28,2025-06-28,Closed Won,Negotiation,Closed Won,,88
+156,115038,230229,489,162,2,Outbound - Cold Call,2024-12-21,386400.0,16.6,8,2025-03-10,2025-03-10,Closed Lost,Proposal,Closed Lost,Champion Left Company,79
+157,30942,61996,490,55,6,Partner Channel,2024-10-18,483600.0,23.1,3,2025-02-05,2025-02-05,Closed Lost,Proposal,Closed Lost,Chose Competitor,110
+158,42528,85068,493,110,3,Inbound - Web,2026-03-24,239700.0,6.9,3,2026-06-24,2026-06-24,Closed Lost,Proposal,Closed Lost,Budget Constraints,92
+159,30371,60885,496,117,7,Inbound - Web,2026-05-13,70100.0,8.2,2,2026-09-05,2026-09-05,Closed Lost,Proposal,Closed Lost,Pricing Too High,115
+160,115990,232130,499,90,5,Inbound - Web,2024-12-02,44300.0,9.9,5,2025-01-26,2025-01-26,Closed Won,Negotiation,Closed Won,,55
+161,86639,173269,500,92,12,Referral,2025-04-03,33400.0,4.2,6,2025-06-27,2025-06-27,Closed Lost,Negotiation,Closed Lost,Feature Gap,85
+162,84550,169062,508,94,6,Outbound - Cold Call,2026-02-11,550900.0,10.5,6,2026-07-11,2026-07-11,Closed Won,Negotiation,Closed Won,,150
+163,115491,231124,509,23,10,Inbound - Web,2024-03-20,73900.0,10.7,2,2024-05-22,2024-05-22,Closed Lost,Negotiation,Closed Lost,Feature Gap,63
+164,16583,33204,512,81,8,Referral,2024-09-26,86200.0,8.8,2,2024-11-05,2024-11-05,Closed Lost,Proposal,Closed Lost,Chose Competitor,40
+165,110244,220568,513,50,5,Referral,2026-01-21,87000.0,14.5,2,2026-03-27,2026-03-27,Closed Lost,Proposal,Closed Lost,Chose Competitor,65
+166,114423,229021,514,179,1,Referral,2024-04-26,305400.0,9.9,5,2024-07-31,2024-07-31,Closed Lost,Proposal,Closed Lost,Feature Gap,96
+167,23814,47690,515,109,15,Inbound - Web,2026-05-02,87000.0,12.0,5,2026-09-12,2026-09-12,Closed Lost,Negotiation,Closed Lost,Chose Competitor,133
+168,34645,69344,522,153,13,Outbound - Cold Call,2025-01-28,162900.0,15.2,7,2025-05-14,2025-05-14,Closed Lost,Negotiation,Closed Lost,No Decision / Timing,106
+169,45564,91087,526,57,7,Inbound - Web,2026-01-20,60200.0,16.9,1,2026-04-07,2026-04-07,Closed Lost,Negotiation,Closed Lost,Chose Competitor,77
+170,70606,141234,527,15,2,Outbound - Cold Call,2025-10-26,404100.0,3.9,6,2025-12-24,2025-12-24,Closed Lost,Proposal,Closed Lost,Champion Left Company,59
+171,16512,33073,529,124,10,Outbound - Email,2026-02-28,52700.0,3.7,3,2026-04-18,2026-04-18,Closed Won,Negotiation,Closed Won,,49
+172,103743,207638,530,170,5,Outbound - Email,2025-07-03,28900.0,8.4,1,2025-08-14,2025-08-14,Closed Lost,Proposal,Closed Lost,Champion Left Company,42
+173,74430,148935,534,142,12,Inbound - Web,2024-08-18,24900.0,5.3,2,2024-09-22,2024-09-22,Closed Won,Negotiation,Closed Won,,35
+174,115870,231886,535,107,1,Referral,2024-03-06,119500.0,8.5,2,2024-04-09,2024-04-09,Closed Won,Negotiation,Closed Won,,34
+175,81805,163593,539,92,9,Inbound - Web,2025-03-28,539400.0,22.1,5,2025-06-11,2025-06-11,Closed Lost,Negotiation,Closed Lost,Pricing Too High,75
+176,6414,12898,549,22,12,Trade Show / Event,2024-06-15,29100.0,2.7,4,2024-07-29,2024-07-29,Closed Won,Negotiation,Closed Won,,44
+177,15521,31116,553,65,2,Inbound - Web,2025-06-21,115900.0,14.2,4,2025-07-27,2025-07-27,Closed Lost,Proposal,Closed Lost,Pricing Too High,36
+178,76552,153135,555,43,10,Outbound - Cold Call,2024-03-01,486300.0,7.4,8,2024-04-28,2024-04-28,Closed Lost,Proposal,Closed Lost,Chose Competitor,58
+179,28397,56903,563,145,13,Partner Channel,2024-06-13,57200.0,5.1,3,2024-08-15,2024-08-15,Closed Lost,Negotiation,Closed Lost,Chose Competitor,63
+180,58849,117713,570,34,11,Outbound - Email,2026-01-07,33200.0,0.2,1,2026-02-05,2026-02-05,Closed Won,Negotiation,Closed Won,,29
+181,739,1495,572,100,8,Inbound - Web,2024-04-08,65700.0,13.7,3,2024-06-25,2024-06-25,Closed Lost,Negotiation,Closed Lost,No Decision / Timing,78
+182,96101,192227,577,165,13,Trade Show / Event,2025-10-12,95200.0,14.0,2,2025-12-17,2025-12-17,Closed Lost,Proposal,Closed Lost,Budget Constraints,66
+183,16211,32476,578,152,1,Outbound - Email,2024-05-16,1396100.0,27.1,11,2025-01-05,2025-01-05,Closed Lost,Proposal,Closed Lost,Budget Constraints,234
+184,40954,81959,580,172,14,Outbound - Cold Call,2025-01-02,21500.0,9.0,5,2025-03-17,2025-03-17,Closed Lost,Negotiation,Closed Lost,Chose Competitor,74
+185,100988,202020,585,39,3,Partner Channel,2024-06-11,313100.0,19.2,2,2024-09-02,2024-09-02,Closed Lost,Negotiation,Closed Lost,Feature Gap,83
+186,59753,119574,586,13,12,Referral,2024-05-12,234500.0,8.1,3,2024-07-18,2024-07-18,Closed Won,Negotiation,Closed Won,,67
+187,54199,108391,592,79,1,Inbound - Web,2025-12-06,503300.0,4.9,1,2025-12-27,2025-12-27,Closed Won,Negotiation,Closed Won,,21
+188,28650,57389,595,33,13,Partner Channel,2025-09-28,55900.0,14.3,4,2025-12-25,2025-12-25,Closed Won,Negotiation,Closed Won,,88
+189,104701,209570,597,48,6,Inbound - Web,2024-11-12,708800.0,15.8,4,2025-01-12,2025-01-12,Closed Won,Negotiation,Closed Won,,61
+190,62672,125402,601,127,7,Outbound - Email,2026-05-22,25900.0,0.8,3,2026-07-17,2026-07-17,Closed Won,Negotiation,Closed Won,,56
+191,113273,226680,603,179,1,Outbound - Cold Call,2024-10-21,420500.0,16.8,6,2025-01-12,2025-01-12,Closed Lost,Negotiation,Closed Lost,Feature Gap,83
+192,29791,59703,605,109,14,Outbound - Cold Call,2026-07-07,25600.0,2.2,3,2026-08-23,2026-08-23,Closed Won,Negotiation,Closed Won,,47
+193,76315,152648,608,66,4,Inbound - Web,2024-07-27,79300.0,7.7,4,2024-09-13,2024-09-13,Closed Lost,Negotiation,Closed Lost,No Decision / Timing,48
+194,56169,112323,612,30,9,Trade Show / Event,2026-06-20,58600.0,9.7,1,2026-07-26,2026-07-26,Closed Lost,Proposal,Closed Lost,Chose Competitor,36
+195,18538,37070,613,31,3,Inbound - Web,2024-09-24,983000.0,18.3,2,2024-11-19,2024-11-19,Closed Won,Negotiation,Closed Won,,56
+196,82526,165020,614,26,2,Outbound - Email,2025-01-23,59100.0,2.4,2,2025-03-24,2025-03-24,Closed Lost,Negotiation,Closed Lost,Champion Left Company,60
+197,42199,84413,620,98,5,Outbound - Email,2025-10-07,78200.0,14.7,2,2025-11-11,2025-11-11,Closed Lost,Negotiation,Closed Lost,Champion Left Company,35
+198,81809,163604,621,178,7,Inbound - Web,2025-09-06,80900.0,9.6,7,2025-12-25,2025-12-25,Closed Lost,Proposal,Closed Lost,Pricing Too High,110
+199,119114,238313,622,152,2,Referral,2025-11-21,977700.0,18.7,7,2026-05-02,2026-05-02,Closed Won,Negotiation,Closed Won,,162
+200,24879,49811,623,174,4,Outbound - Email,2025-06-05,640300.0,11.7,4,2025-08-23,2025-08-23,Closed Lost,Negotiation,Closed Lost,No Decision / Timing,79
+201,5860,11789,628,128,3,Referral,2025-11-08,708000.0,23.3,4,2026-02-13,2026-02-13,Closed Won,Negotiation,Closed Won,,97
+202,47403,94693,637,123,9,Inbound - Web,2026-08-04,38400.0,1.6,1,2026-09-30,,Negotiation,Negotiation,Open,,57
+203,34584,69219,638,24,9,Referral,2026-06-08,219500.0,10.1,9,2027-06-14,,Needs Analysis,Needs Analysis,Open,,371
+204,27482,55075,645,150,10,Inbound - Web,2024-04-20,31100.0,5.7,3,2024-06-19,2024-06-19,Closed Lost,Negotiation,Closed Lost,Budget Constraints,60
+205,55013,110017,646,121,15,Trade Show / Event,2026-07-19,47900.0,10.5,1,2027-01-21,,Needs Analysis,Needs Analysis,Open,,186
+206,96773,193589,650,78,13,Trade Show / Event,2024-08-10,21400.0,0.0,1,2024-10-10,2024-10-10,Closed Won,Negotiation,Closed Won,,61
+207,47640,95207,651,161,3,Outbound - Email,2024-06-09,88200.0,2.4,2,2024-07-17,2024-07-17,Closed Won,Negotiation,Closed Won,,38
+208,50907,101715,652,56,4,Outbound - Email,2025-05-07,186100.0,8.8,3,2025-06-18,2025-06-18,Closed Won,Negotiation,Closed Won,,42
+209,84556,169077,654,38,2,Trade Show / Event,2025-05-04,547200.0,12.1,4,2025-07-08,2025-07-08,Closed Won,Negotiation,Closed Won,,65
+210,74705,149474,655,117,11,Trade Show / Event,2024-11-11,6100.0,1.8,2,2024-12-06,2024-12-06,Closed Lost,Proposal,Closed Lost,Chose Competitor,25
+211,119269,238630,656,64,13,Inbound - Web,2024-11-30,266200.0,11.0,5,2025-03-20,2025-03-20,Closed Won,Negotiation,Closed Won,,110
+212,56637,113258,663,23,7,Inbound - Web,2025-07-21,33500.0,9.9,3,2025-12-04,2025-12-04,Closed Lost,Proposal,Closed Lost,Pricing Too High,136
+213,9177,18441,664,177,8,Trade Show / Event,2026-01-18,65400.0,9.9,3,2026-03-26,2026-03-26,Closed Lost,Negotiation,Closed Lost,Chose Competitor,67
+214,38918,77865,665,144,7,Referral,2024-05-12,17800.0,3.4,2,2024-06-15,2024-06-15,Closed Lost,Proposal,Closed Lost,Chose Competitor,34
+215,81764,163502,666,134,4,Partner Channel,2026-08-11,1146900.0,17.6,4,2026-11-11,,Proposal,Proposal,Open,,92
+216,20678,41414,667,94,16,Outbound - Email,2024-07-29,242000.0,16.0,4,2024-12-17,2024-12-17,Closed Lost,Proposal,Closed Lost,Budget Constraints,141
+217,40343,80716,670,163,7,Trade Show / Event,2026-08-28,10700.0,6.0,2,2026-09-18,2026-09-18,Closed Lost,Proposal,Closed Lost,No Decision / Timing,21
+218,90597,181157,672,127,1,Inbound - Web,2024-11-17,284300.0,8.6,5,2024-12-23,2024-12-23,Closed Lost,Negotiation,Closed Lost,Pricing Too High,36
+219,55592,111163,673,18,14,Trade Show / Event,2026-03-05,46300.0,12.6,4,2026-06-17,2026-06-17,Closed Lost,Proposal,Closed Lost,Pricing Too High,104
+220,58859,117740,677,18,12,Partner Channel,2025-03-22,24600.0,1.7,4,2025-06-03,2025-06-03,Closed Won,Negotiation,Closed Won,,73
+221,96229,192493,680,128,4,Outbound - Cold Call,2024-02-10,336300.0,7.5,2,2024-05-05,2024-05-05,Closed Lost,Proposal,Closed Lost,No Decision / Timing,85
+222,82720,165400,687,10,15,Outbound - Cold Call,2024-09-11,46700.0,4.5,1,2024-12-11,2024-12-11,Closed Won,Negotiation,Closed Won,,91
+223,51289,102508,692,109,5,Inbound - Web,2025-07-31,63800.0,16.1,4,2025-10-19,2025-10-19,Closed Won,Negotiation,Closed Won,,80
+224,39,76,693,5,4,Partner Channel,2024-03-30,82400.0,5.7,4,2024-05-05,2024-05-05,Closed Won,Negotiation,Closed Won,,36
+225,9774,19605,694,89,14,Outbound - Cold Call,2024-03-09,1800.0,0.0,1,2024-04-29,2024-04-29,Closed Won,Negotiation,Closed Won,,51
+226,11622,23264,695,54,1,Partner Channel,2025-04-04,535300.0,22.2,4,2025-08-11,2025-08-11,Closed Won,Negotiation,Closed Won,,129
+227,4904,9854,702,120,8,Inbound - Web,2025-02-05,63200.0,9.1,3,2025-03-31,2025-03-31,Closed Lost,Proposal,Closed Lost,No Decision / Timing,54
+228,76290,152602,704,87,16,Outbound - Email,2024-06-16,36200.0,8.5,1,2024-08-13,2024-08-13,Closed Won,Negotiation,Closed Won,,58
+229,101349,202774,705,87,4,Inbound - Web,2024-09-18,326000.0,19.1,1,2024-10-20,2024-10-20,Closed Won,Negotiation,Closed Won,,32
+230,92115,184234,706,132,10,Inbound - Web,2025-01-13,75200.0,5.5,2,2025-04-19,2025-04-19,Closed Lost,Proposal,Closed Lost,Budget Constraints,96
+231,27443,54998,709,101,16,Trade Show / Event,2025-03-01,37200.0,13.9,2,2025-03-29,2025-03-29,Closed Lost,Proposal,Closed Lost,No Decision / Timing,28
+232,109204,218494,710,33,9,Outbound - Cold Call,2024-10-10,20800.0,1.5,2,2024-11-25,2024-11-25,Closed Lost,Negotiation,Closed Lost,Chose Competitor,46
+233,45778,91506,712,64,11,Partner Channel,2025-08-24,25800.0,10.9,3,2025-11-10,2025-11-10,Closed Lost,Negotiation,Closed Lost,Champion Left Company,78
+234,13122,26269,715,58,4,Referral,2024-04-04,230000.0,6.2,1,2024-05-23,2024-05-23,Closed Lost,Negotiation,Closed Lost,Chose Competitor,49
+235,96967,193986,719,23,3,Outbound - Email,2025-03-07,139400.0,8.5,1,2025-03-31,2025-03-31,Closed Lost,Negotiation,Closed Lost,Champion Left Company,24
+236,28259,56613,722,87,11,Inbound - Web,2025-09-27,8500.0,8.1,3,2025-12-09,2025-12-09,Closed Won,Negotiation,Closed Won,,73
+237,45634,91225,724,52,5,Partner Channel,2025-04-12,126100.0,13.4,3,2025-06-28,2025-06-28,Closed Won,Negotiation,Closed Won,,77
+238,32422,64938,730,145,15,Trade Show / Event,2025-08-05,25000.0,9.8,5,2025-10-08,2025-10-08,Closed Won,Negotiation,Closed Won,,64
+239,26742,53580,732,8,4,Trade Show / Event,2024-10-25,130200.0,10.4,3,2024-12-09,2024-12-09,Closed Lost,Negotiation,Closed Lost,Chose Competitor,45
+240,72158,144337,733,148,5,Partner Channel,2025-12-28,56900.0,0.0,1,2026-02-02,2026-02-02,Closed Lost,Proposal,Closed Lost,No Decision / Timing,36
+241,91141,182271,740,129,2,Partner Channel,2025-02-23,165000.0,13.4,1,2025-03-31,2025-03-31,Closed Won,Negotiation,Closed Won,,36
+242,16130,32309,741,148,9,Referral,2024-04-29,14800.0,1.0,1,2024-06-17,2024-06-17,Closed Won,Negotiation,Closed Won,,49
+243,91695,183397,757,79,3,Outbound - Cold Call,2024-07-11,240100.0,16.7,1,2024-08-14,2024-08-14,Closed Lost,Negotiation,Closed Lost,Feature Gap,34
+244,107539,215185,758,29,2,Outbound - Cold Call,2024-03-22,458500.0,28.7,3,2024-05-25,2024-05-25,Closed Lost,Negotiation,Closed Lost,Pricing Too High,64
+245,89878,179666,759,70,9,Inbound - Web,2026-03-08,20700.0,11.1,4,2026-04-24,2026-04-24,Closed Lost,Negotiation,Closed Lost,No Decision / Timing,47
+246,79429,158848,770,98,10,Referral,2025-10-29,203700.0,21.3,1,2025-12-01,2025-12-01,Closed Won,Negotiation,Closed Won,,33
+247,55750,111488,772,1,2,Inbound - Web,2025-09-15,69300.0,0.1,3,2025-11-07,2025-11-07,Closed Lost,Proposal,Closed Lost,Pricing Too High,53
+248,11185,22413,776,148,14,Inbound - Web,2025-11-04,3900.0,0.0,3,2025-11-25,2025-11-25,Closed Lost,Proposal,Closed Lost,Chose Competitor,21
+249,33609,67274,778,62,3,Inbound - Web,2024-03-31,48900.0,9.6,3,2024-05-24,2024-05-24,Closed Lost,Negotiation,Closed Lost,Champion Left Company,54
+250,10439,20929,779,79,10,Trade Show / Event,2025-06-13,55900.0,5.2,4,2025-08-09,2025-08-09,Closed Lost,Proposal,Closed Lost,Budget Constraints,57
+251,50901,101700,780,37,16,Trade Show / Event,2024-09-12,54500.0,9.9,6,2024-10-23,2024-10-23,Closed Won,Negotiation,Closed Won,,41
+252,56326,112639,781,102,14,Outbound - Email,2024-08-17,4800.0,8.4,3,2024-10-12,2024-10-12,Closed Lost,Negotiation,Closed Lost,Feature Gap,56
+253,74059,148178,783,98,5,Partner Channel,2026-07-09,110700.0,14.0,2,2026-08-29,2026-08-29,Closed Lost,Proposal,Closed Lost,Pricing Too High,51
+254,82133,164225,784,9,8,Referral,2026-06-25,49900.0,13.6,1,2026-08-07,2026-08-07,Closed Won,Negotiation,Closed Won,,43
+255,48929,97795,790,125,10,Inbound - Web,2025-03-23,218500.0,17.8,5,2025-06-02,2025-06-02,Closed Won,Negotiation,Closed Won,,71
+256,107994,216105,795,172,7,Partner Channel,2025-05-30,41900.0,13.6,1,2025-07-16,2025-07-16,Closed Won,Negotiation,Closed Won,,47
+257,101223,202503,798,92,10,Outbound - Email,2025-11-03,22800.0,3.5,2,2026-01-06,2026-01-06,Closed Won,Negotiation,Closed Won,,64
+258,84908,169795,800,173,14,Trade Show / Event,2025-05-08,2600.0,0.0,2,2025-06-16,2025-06-16,Closed Lost,Negotiation,Closed Lost,Feature Gap,39
+259,92517,185072,805,55,10,Referral,2026-08-09,34900.0,2.7,5,2026-09-21,,Negotiation,Negotiation,Open,,43
+260,106455,212992,807,99,16,Partner Channel,2024-10-09,51300.0,5.9,5,2024-12-09,2024-12-09,Closed Lost,Negotiation,Closed Lost,Chose Competitor,61
+261,60041,120146,808,112,1,Referral,2024-08-10,169500.0,18.5,1,2024-09-13,2024-09-13,Closed Lost,Negotiation,Closed Lost,Pricing Too High,34
+262,23373,46803,809,137,2,Outbound - Cold Call,2026-01-11,395400.0,11.3,4,2026-07-04,2026-07-04,Closed Lost,Negotiation,Closed Lost,No Decision / Timing,174
+263,106301,212666,814,33,10,Referral,2024-07-23,177400.0,8.9,3,2024-09-09,2024-09-09,Closed Won,Negotiation,Closed Won,,48
+264,59282,118606,815,32,14,Outbound - Email,2025-12-07,2100.0,0.0,6,2026-01-14,2026-01-14,Closed Lost,Proposal,Closed Lost,No Decision / Timing,38
+265,71924,143884,816,93,2,Partner Channel,2024-08-31,166600.0,5.2,1,2024-09-27,2024-09-27,Closed Won,Negotiation,Closed Won,,27
+266,3223,6438,822,76,3,Partner Channel,2026-05-29,151400.0,7.6,5,2026-07-23,2026-07-23,Closed Won,Negotiation,Closed Won,,55
+267,42676,85373,823,137,10,Inbound - Web,2026-04-09,839300.0,7.7,7,2026-12-06,,Proposal,Proposal,Open,,241
+268,66775,133579,824,107,3,Outbound - Cold Call,2026-01-03,933900.0,13.6,2,2026-03-12,2026-03-12,Closed Won,Negotiation,Closed Won,,68
+269,59290,118621,827,178,4,Outbound - Cold Call,2025-03-03,533400.0,15.8,1,2025-05-30,2025-05-30,Closed Lost,Negotiation,Closed Lost,Pricing Too High,88
+270,72525,145057,828,74,3,Outbound - Cold Call,2025-11-18,397500.0,10.7,3,2026-03-14,2026-03-14,Closed Won,Negotiation,Closed Won,,116
+271,39289,78594,830,165,4,Inbound - Web,2026-07-04,525500.0,7.0,8,2026-12-25,,Proposal,Proposal,Open,,174
+272,90863,181728,834,169,3,Referral,2025-09-18,213200.0,11.5,3,2025-11-19,2025-11-19,Closed Won,Negotiation,Closed Won,,62
+273,79509,159013,835,158,8,Referral,2024-06-04,36200.0,2.4,3,2024-08-07,2024-08-07,Closed Lost,Negotiation,Closed Lost,Champion Left Company,64
+274,105815,211719,841,70,2,Outbound - Cold Call,2026-08-05,224500.0,5.7,3,2026-08-31,2026-08-31,Closed Won,Negotiation,Closed Won,,26
+275,105090,210325,842,100,6,Outbound - Email,2026-04-24,758000.0,14.3,4,2026-09-06,2026-09-06,Closed Won,Negotiation,Closed Won,,135
+276,29583,59258,846,78,1,Outbound - Cold Call,2024-10-09,401400.0,7.5,3,2024-11-10,2024-11-10,Closed Won,Negotiation,Closed Won,,32
+277,14323,28703,852,130,11,Inbound - Web,2025-01-04,6500.0,0.2,3,2025-02-07,2025-02-07,Closed Lost,Negotiation,Closed Lost,Pricing Too High,34
+278,77141,154294,853,36,8,Trade Show / Event,2024-03-05,25300.0,4.4,3,2024-06-14,2024-06-14,Closed Won,Negotiation,Closed Won,,101
+279,23817,47697,856,78,6,Outbound - Cold Call,2025-12-03,92800.0,9.3,3,2026-01-07,2026-01-07,Closed Lost,Negotiation,Closed Lost,Feature Gap,35
+280,1550,3116,860,109,12,Referral,2025-08-04,52600.0,14.4,3,2025-10-04,2025-10-04,Closed Lost,Proposal,Closed Lost,Pricing Too High,61
+281,38655,77348,862,144,9,Referral,2024-07-07,17000.0,3.4,1,2024-08-12,2024-08-12,Closed Lost,Negotiation,Closed Lost,Budget Constraints,36
+282,43694,87371,870,28,4,Inbound - Web,2025-10-11,240600.0,1.9,3,2025-12-06,2025-12-06,Closed Lost,Proposal,Closed Lost,Feature Gap,56
+283,95311,190671,871,15,12,Inbound - Web,2025-01-04,84100.0,16.3,3,2025-02-28,2025-02-28,Closed Won,Negotiation,Closed Won,,55
+284,105368,210865,874,130,3,Partner Channel,2024-10-15,180200.0,13.3,3,2024-12-30,2024-12-30,Closed Lost,Proposal,Closed Lost,Budget Constraints,76
+285,100038,200090,875,32,6,Outbound - Email,2026-02-22,458900.0,5.7,2,2026-03-22,2026-03-22,Closed Lost,Proposal,Closed Lost,Feature Gap,28
+286,86944,173849,881,172,1,Inbound - Web,2025-05-08,79700.0,5.0,2,2025-06-21,2025-06-21,Closed Won,Negotiation,Closed Won,,44
+287,65197,130421,886,67,12,Partner Channel,2024-06-18,71000.0,11.6,4,2024-07-31,2024-07-31,Closed Lost,Negotiation,Closed Lost,Champion Left Company,43
+288,9260,18615,887,22,3,Inbound - Web,2025-05-11,117800.0,15.7,2,2025-06-17,2025-06-17,Closed Lost,Proposal,Closed Lost,No Decision / Timing,37
+289,54081,108144,899,122,16,Outbound - Cold Call,2024-04-17,53500.0,5.9,6,2024-06-11,2024-06-11,Closed Lost,Proposal,Closed Lost,Chose Competitor,55
+290,91491,182990,903,121,8,Partner Channel,2025-01-04,228200.0,19.1,8,2025-08-28,2025-08-28,Closed Lost,Negotiation,Closed Lost,Chose Competitor,236
+291,58947,117921,904,139,10,Referral,2025-08-11,126500.0,2.9,3,2025-10-06,2025-10-06,Closed Won,Negotiation,Closed Won,,56
+292,68903,137813,906,26,11,Partner Channel,2025-04-20,9600.0,1.4,4,2025-05-18,2025-05-18,Closed Lost,Proposal,Closed Lost,Feature Gap,28
+293,114145,228451,910,30,11,Inbound - Web,2026-07-21,74000.0,8.7,4,2026-09-08,2026-09-08,Closed Won,Negotiation,Closed Won,,49
+294,2693,5359,918,83,2,Outbound - Email,2026-07-25,113800.0,7.9,4,2026-09-24,,Negotiation,Negotiation,Open,,61
+295,51422,102783,920,169,1,Trade Show / Event,2024-06-23,2309100.0,16.0,4,2024-10-05,2024-10-05,Closed Won,Negotiation,Closed Won,,104
+296,88680,177301,932,1,12,Referral,2024-12-24,56600.0,6.5,5,2025-02-15,2025-02-15,Closed Won,Negotiation,Closed Won,,53
+297,116723,233586,935,97,15,Referral,2026-06-28,12600.0,2.5,1,2026-08-30,2026-08-30,Closed Won,Negotiation,Closed Won,,63
+298,68414,136847,936,99,15,Inbound - Web,2025-10-02,7800.0,0.0,2,2025-10-24,2025-10-24,Closed Lost,Negotiation,Closed Lost,Champion Left Company,22
+299,99161,198335,938,171,1,Inbound - Web,2025-01-21,120700.0,6.8,2,2025-02-23,2025-02-23,Closed Lost,Proposal,Closed Lost,Chose Competitor,33
+300,1507,3030,946,68,14,Inbound - Web,2024-07-16,5400.0,8.1,5,2024-09-28,2024-09-28,Closed Lost,Negotiation,Closed Lost,No Decision / Timing,74
+301,101699,203489,948,19,6,Referral,2024-10-11,575000.0,10.5,4,2024-12-14,2024-12-14,Closed Lost,Proposal,Closed Lost,Feature Gap,64
+302,41231,82492,952,117,15,Inbound - Web,2025-09-05,44800.0,9.1,5,2025-11-12,2025-11-12,Closed Lost,Negotiation,Closed Lost,No Decision / Timing,68
+303,918,1840,955,64,3,Partner Channel,2024-04-20,144500.0,4.4,3,2024-06-05,2024-06-05,Closed Lost,Negotiation,Closed Lost,Chose Competitor,46
+304,114025,228203,957,165,15,Trade Show / Event,2025-10-22,5500.0,9.0,7,2026-01-09,2026-01-09,Closed Won,Negotiation,Closed Won,,79
+305,84779,169528,959,132,2,Inbound - Web,2025-07-29,183600.0,19.3,1,2025-08-25,2025-08-25,Closed Won,Negotiation,Closed Won,,27
+306,4927,9901,963,75,5,Inbound - Web,2026-02-05,220900.0,27.1,4,2026-03-29,2026-03-29,Closed Lost,Negotiation,Closed Lost,Champion Left Company,52
+307,95639,191319,964,58,1,Outbound - Cold Call,2024-05-31,87000.0,22.2,3,2024-07-10,2024-07-10,Closed Won,Negotiation,Closed Won,,40
+308,107260,214599,970,2,11,Inbound - Web,2025-12-28,211900.0,15.9,3,2026-04-15,2026-04-15,Closed Lost,Proposal,Closed Lost,No Decision / Timing,108
+309,103135,206418,971,81,8,Outbound - Email,2026-03-13,55000.0,3.5,2,2026-06-30,2026-06-30,Closed Won,Negotiation,Closed Won,,109
+310,52835,105621,975,81,5,Inbound - Web,2024-11-06,26600.0,7.9,3,2024-12-07,2024-12-07,Closed Won,Negotiation,Closed Won,,31
+311,16045,32139,977,6,2,Partner Channel,2025-12-04,143600.0,7.7,2,2026-01-16,2026-01-16,Closed Lost,Negotiation,Closed Lost,Chose Competitor,43
+312,25345,50737,978,87,1,Partner Channel,2025-03-19,1922500.0,20.1,6,2025-07-07,2025-07-07,Closed Lost,Negotiation,Closed Lost,Champion Left Company,110
+313,47448,94785,983,69,10,Outbound - Cold Call,2025-09-04,578500.0,14.2,8,2025-10-19,2025-10-19,Closed Won,Negotiation,Closed Won,,45
+314,53000,105965,984,68,12,Inbound - Web,2025-05-26,79800.0,4.6,3,2025-06-28,2025-06-28,Closed Lost,Proposal,Closed Lost,Budget Constraints,33
+315,45506,90978,985,119,6,Referral,2025-06-10,448100.0,6.3,4,2025-09-30,2025-09-30,Closed Lost,Negotiation,Closed Lost,No Decision / Timing,112
+316,68622,137264,989,153,10,Referral,2026-04-04,286300.0,22.8,4,2026-06-16,2026-06-16,Closed Lost,Proposal,Closed Lost,Pricing Too High,73
+317,12048,24107,990,126,4,Partner Channel,2024-01-17,108700.0,9.2,3,2024-03-28,2024-03-28,Closed Lost,Proposal,Closed Lost,Feature Gap,71
+318,98247,196546,991,6,8,Outbound - Email,2024-11-22,39700.0,15.9,6,2025-04-11,2025-04-11,Closed Won,Negotiation,Closed Won,,140
+319,93774,187604,1000,154,13,Trade Show / Event,2024-10-28,16300.0,5.4,4,2024-12-12,2024-12-12,Closed Lost,Negotiation,Closed Lost,Pricing Too High,45
+320,65730,131522,1003,116,2,Trade Show / Event,2024-06-12,52000.0,2.0,2,2024-08-06,2024-08-06,Closed Lost,Proposal,Closed Lost,Chose Competitor,55
+321,25301,50644,1005,179,7,Outbound - Cold Call,2024-03-21,35800.0,13.9,6,2024-06-16,2024-06-16,Closed Lost,Proposal,Closed Lost,Feature Gap,87
+322,53860,107707,1009,141,9,Outbound - Cold Call,2026-08-08,216500.0,16.5,6,2027-01-28,,Needs Analysis,Needs Analysis,Open,,173
+323,29489,59064,1018,12,9,Outbound - Cold Call,2025-03-10,45600.0,12.0,5,2025-07-15,2025-07-15,Closed Lost,Negotiation,Closed Lost,Pricing Too High,127
+324,95632,191302,1021,43,13,Trade Show / Event,2024-07-02,41600.0,10.2,3,2024-08-12,2024-08-12,Closed Won,Negotiation,Closed Won,,41
+325,111042,222180,1025,9,2,Outbound - Cold Call,2025-12-10,1210500.0,21.3,11,2026-08-03,2026-08-03,Closed Won,Negotiation,Closed Won,,236
+326,78332,156650,1029,9,2,Outbound - Cold Call,2026-06-10,153200.0,13.1,2,2026-07-29,2026-07-29,Closed Lost,Negotiation,Closed Lost,Chose Competitor,49
+327,23378,46814,1031,93,8,Referral,2025-03-03,110900.0,14.0,3,2025-06-16,2025-06-16,Closed Lost,Proposal,Closed Lost,Budget Constraints,105
+328,75608,151247,1037,116,8,Inbound - Web,2025-06-25,29100.0,7.2,1,2025-08-26,2025-08-26,Closed Lost,Negotiation,Closed Lost,Pricing Too High,62
+329,51798,103533,1041,167,4,Trade Show / Event,2025-07-11,484500.0,16.7,4,2025-09-19,2025-09-19,Closed Won,Negotiation,Closed Won,,70
+330,102556,205231,1047,94,1,Outbound - Cold Call,2024-10-26,204900.0,16.9,4,2024-12-09,2024-12-09,Closed Lost,Proposal,Closed Lost,No Decision / Timing,44
+331,49661,99221,1050,10,4,Trade Show / Event,2025-01-31,213400.0,0.0,4,2025-03-23,2025-03-23,Closed Lost,Negotiation,Closed Lost,Pricing Too High,51
+332,100409,200857,1052,67,6,Partner Channel,2025-05-12,418500.0,18.2,8,2025-08-05,2025-08-05,Closed Lost,Proposal,Closed Lost,Budget Constraints,85
+333,69531,139096,1062,7,15,Inbound - Web,2024-06-20,10600.0,5.4,4,2024-08-02,2024-08-02,Closed Lost,Proposal,Closed Lost,Budget Constraints,43
+334,74613,149299,1065,96,16,Trade Show / Event,2026-05-19,15500.0,0.0,2,2026-06-13,2026-06-13,Closed Won,Negotiation,Closed Won,,25
+335,119490,239077,1068,116,1,Inbound - Web,2025-04-24,61800.0,14.3,3,2025-06-16,2025-06-16,Closed Won,Negotiation,Closed Won,,53
+336,60232,120537,1072,175,1,Inbound - Web,2024-07-24,2312300.0,25.9,6,2024-11-23,2024-11-23,Closed Won,Negotiation,Closed Won,,122
+337,43599,87172,1075,137,7,Outbound - Cold Call,2024-03-31,27400.0,5.0,5,2024-05-26,2024-05-26,Closed Lost,Negotiation,Closed Lost,Budget Constraints,56
+338,17252,34546,1081,34,15,Inbound - Web,2024-12-20,21200.0,5.9,2,2025-02-14,2025-02-14,Closed Won,Negotiation,Closed Won,,56
+339,34731,69514,1085,148,3,Inbound - Web,2025-12-06,1732700.0,12.3,9,2026-04-07,2026-04-07,Closed Lost,Negotiation,Closed Lost,No Decision / Timing,122
+340,50285,100459,1088,53,14,Inbound - Web,2025-11-29,7200.0,5.8,3,2026-03-23,2026-03-23,Closed Lost,Negotiation,Closed Lost,Pricing Too High,114
+341,82542,165048,1091,1,11,Referral,2025-01-27,9100.0,4.3,5,2025-03-16,2025-03-16,Closed Lost,Negotiation,Closed Lost,Champion Left Company,48
+342,72589,145192,1092,113,14,Referral,2026-08-04,18900.0,6.6,2,2026-09-07,2026-09-07,Closed Won,Negotiation,Closed Won,,34
+343,117372,234864,1100,153,12,Inbound - Web,2025-03-29,86000.0,7.9,8,2025-07-21,2025-07-21,Closed Won,Negotiation,Closed Won,,114
+344,36883,73833,1102,9,6,Outbound - Email,2024-03-07,1526100.0,7.2,5,2024-05-29,2024-05-29,Closed Lost,Negotiation,Closed Lost,Chose Competitor,83
+345,114840,229846,1104,73,5,Trade Show / Event,2024-04-27,49500.0,11.1,3,2024-05-31,2024-05-31,Closed Lost,Negotiation,Closed Lost,Champion Left Company,34
+346,72564,145144,1107,14,4,Inbound - Web,2026-06-13,2411200.0,16.5,7,2026-08-31,2026-08-31,Closed Won,Negotiation,Closed Won,,79
+347,7493,15018,1108,47,6,Outbound - Email,2025-02-28,575800.0,9.1,4,2025-05-28,2025-05-28,Closed Lost,Proposal,Closed Lost,Pricing Too High,89
+348,77601,155209,1114,152,13,Referral,2026-04-06,54100.0,3.8,3,2026-05-22,2026-05-22,Closed Won,Negotiation,Closed Won,,46
+349,21802,43645,1115,128,16,Trade Show / Event,2025-07-08,99800.0,14.4,2,2025-08-30,2025-08-30,Closed Lost,Proposal,Closed Lost,Chose Competitor,53
+350,88036,176034,1116,55,9,Inbound - Web,2025-06-08,66600.0,14.9,2,2025-07-20,2025-07-20,Closed Won,Negotiation,Closed Won,,42
+351,28029,56177,1118,9,14,Referral,2024-09-27,10000.0,7.5,4,2024-11-17,2024-11-17,Closed Lost,Proposal,Closed Lost,Champion Left Company,51
+352,89538,178979,1123,80,7,Outbound - Cold Call,2024-08-06,36800.0,11.6,2,2024-09-26,2024-09-26,Closed Lost,Proposal,Closed Lost,Feature Gap,51
+353,1650,3318,1125,148,15,Partner Channel,2024-01-15,32200.0,0.0,3,2024-02-07,2024-02-07,Closed Won,Negotiation,Closed Won,,23
+354,115365,230871,1127,150,16,Referral,2024-03-28,15900.0,6.8,2,2024-05-13,2024-05-13,Closed Lost,Negotiation,Closed Lost,No Decision / Timing,46
+355,46677,93299,1129,127,2,Outbound - Cold Call,2024-12-13,191300.0,17.0,1,2025-01-09,2025-01-09,Closed Lost,Negotiation,Closed Lost,Feature Gap,27
+356,96074,192176,1130,66,6,Partner Channel,2026-06-20,343100.0,6.8,4,2026-08-10,2026-08-10,Closed Lost,Proposal,Closed Lost,No Decision / Timing,51
+357,109627,219363,1131,33,13,Trade Show / Event,2024-04-25,58900.0,9.2,6,2024-06-08,2024-06-08,Closed Lost,Negotiation,Closed Lost,Pricing Too High,44
+358,72137,144300,1132,58,7,Inbound - Web,2025-08-13,48300.0,4.1,5,2025-11-18,2025-11-18,Closed Lost,Proposal,Closed Lost,Champion Left Company,97
+359,77736,155468,1133,45,11,Partner Channel,2025-06-05,39700.0,12.4,2,2025-08-22,2025-08-22,Closed Lost,Proposal,Closed Lost,Budget Constraints,78
+360,27851,55816,1137,137,2,Inbound - Web,2025-08-17,533300.0,20.5,6,2026-01-11,2026-01-11,Closed Won,Negotiation,Closed Won,,147
+361,99521,199051,1139,73,14,Outbound - Cold Call,2024-02-25,2600.0,0.0,3,2024-04-11,2024-04-11,Closed Lost,Negotiation,Closed Lost,Pricing Too High,46
+362,109186,218461,1145,136,1,Partner Channel,2025-08-03,698800.0,24.3,11,2026-01-26,2026-01-26,Closed Lost,Negotiation,Closed Lost,Feature Gap,176
+363,68093,136232,1146,145,2,Trade Show / Event,2026-03-03,548300.0,9.8,6,2026-06-01,2026-06-01,Closed Won,Negotiation,Closed Won,,90
+364,27000,54098,1149,20,7,Outbound - Cold Call,2025-02-18,35800.0,10.0,2,2025-04-07,2025-04-07,Closed Lost,Negotiation,Closed Lost,Champion Left Company,48
+365,104460,209099,1157,141,15,Inbound - Web,2024-03-02,6000.0,1.0,3,2024-04-20,2024-04-20,Closed Lost,Negotiation,Closed Lost,Budget Constraints,49
+366,112226,224583,1164,70,10,Trade Show / Event,2024-05-30,48800.0,16.1,3,2024-08-23,2024-08-23,Closed Lost,Proposal,Closed Lost,Champion Left Company,85
+367,1698,3398,1165,16,16,Outbound - Email,2025-10-27,49400.0,15.5,2,2025-12-26,2025-12-26,Closed Lost,Proposal,Closed Lost,Pricing Too High,60
+368,35396,70873,1170,96,13,Inbound - Web,2025-10-22,681600.0,26.2,5,2026-03-11,2026-03-11,Closed Lost,Negotiation,Closed Lost,Champion Left Company,140
+369,89,173,1172,117,6,Referral,2024-08-17,115100.0,6.0,1,2024-10-15,2024-10-15,Closed Won,Negotiation,Closed Won,,59
+370,67551,135152,1178,163,10,Inbound - Web,2024-07-25,753600.0,25.4,7,2024-12-05,2024-12-05,Closed Won,Negotiation,Closed Won,,133
+371,99775,199558,1180,152,9,Inbound - Web,2026-01-24,371200.0,15.9,7,2026-07-12,2026-07-12,Closed Won,Negotiation,Closed Won,,169
+372,14138,28336,1183,14,4,Outbound - Cold Call,2026-02-28,225700.0,11.9,1,2026-04-02,2026-04-02,Closed Lost,Negotiation,Closed Lost,Pricing Too High,33
+373,84824,169624,1191,116,15,Inbound - Web,2024-04-20,123100.0,8.9,4,2024-06-04,2024-06-04,Closed Won,Negotiation,Closed Won,,45
+374,8608,17301,1192,103,8,Outbound - Email,2025-01-17,158900.0,8.8,4,2025-04-29,2025-04-29,Closed Lost,Proposal,Closed Lost,Pricing Too High,102
+375,105702,211510,1193,150,9,Referral,2025-09-24,60100.0,11.8,5,2025-11-16,2025-11-16,Closed Won,Negotiation,Closed Won,,53
+376,61150,122348,1194,178,12,Outbound - Cold Call,2024-10-03,387400.0,14.0,7,2025-05-18,2025-05-18,Closed Won,Negotiation,Closed Won,,227
+377,83129,166231,1195,85,9,Inbound - Web,2024-08-07,43900.0,7.9,2,2024-09-24,2024-09-24,Closed Won,Negotiation,Closed Won,,48
+378,65928,131912,1196,107,4,Referral,2025-11-11,1146000.0,15.9,4,2026-01-30,2026-01-30,Closed Won,Negotiation,Closed Won,,80
+379,77265,154544,1198,164,14,Referral,2024-07-03,7200.0,0.0,2,2024-08-05,2024-08-05,Closed Lost,Proposal,Closed Lost,No Decision / Timing,33
+380,72495,145003,1201,180,16,Inbound - Web,2024-03-04,112200.0,12.0,6,2024-07-26,2024-07-26,Closed Lost,Proposal,Closed Lost,Feature Gap,144
+381,16847,33737,1204,123,9,Inbound - Web,2025-08-06,14700.0,10.8,1,2025-09-19,2025-09-19,Closed Won,Negotiation,Closed Won,,44
+382,48571,97071,1207,75,10,Referral,2026-02-12,118600.0,28.6,4,2026-05-07,2026-05-07,Closed Lost,Proposal,Closed Lost,Pricing Too High,84
+383,12150,24305,1209,89,6,Referral,2026-02-24,93200.0,13.1,6,2026-04-20,2026-04-20,Closed Lost,Proposal,Closed Lost,No Decision / Timing,55
+384,71017,142055,1210,58,1,Trade Show / Event,2026-06-03,1393400.0,10.4,4,2026-10-15,,Negotiation,Negotiation,Open,,134
+385,63517,127092,1212,163,8,Referral,2025-12-10,137500.0,18.4,3,2026-06-13,2026-06-13,Closed Won,Negotiation,Closed Won,,185
+386,18592,37180,1219,111,13,Inbound - Web,2024-10-07,109100.0,15.9,5,2025-04-16,2025-04-16,Closed Won,Negotiation,Closed Won,,191
+387,22172,44368,1220,81,8,Outbound - Cold Call,2026-03-21,128300.0,12.3,3,2026-06-27,2026-06-27,Closed Lost,Proposal,Closed Lost,Champion Left Company,98
+388,96334,192707,1223,161,13,Inbound - Web,2025-08-03,12800.0,3.5,2,2025-09-18,2025-09-18,Closed Lost,Negotiation,Closed Lost,Champion Left Company,46
+389,22814,45680,1224,117,11,Inbound - Web,2026-07-17,67800.0,7.6,2,2026-10-23,,Proposal,Proposal,Open,,98
+390,84696,169363,1227,117,14,Inbound - Web,2024-11-10,16000.0,7.0,3,2024-12-29,2024-12-29,Closed Lost,Negotiation,Closed Lost,No Decision / Timing,49
+391,28384,56880,1236,85,16,Outbound - Cold Call,2026-05-07,10000.0,10.7,2,2026-06-22,2026-06-22,Closed Lost,Proposal,Closed Lost,Budget Constraints,46
+392,103297,206732,1237,36,3,Outbound - Email,2026-07-04,177700.0,11.6,4,2026-08-29,2026-08-29,Closed Won,Negotiation,Closed Won,,56
+393,38381,76802,1247,179,2,Outbound - Email,2025-01-04,71000.0,5.2,3,2025-02-28,2025-02-28,Closed Won,Negotiation,Closed Won,,55
+394,104284,208726,1250,23,4,Trade Show / Event,2024-10-31,205300.0,12.2,3,2024-11-23,2024-11-23,Closed Won,Negotiation,Closed Won,,23
+395,47291,94468,1253,125,10,Outbound - Cold Call,2026-08-14,53100.0,12.4,5,2026-10-23,,Proposal,Proposal,Open,,70
+396,97046,194149,1254,97,8,Outbound - Email,2025-01-16,174900.0,17.2,2,2025-03-11,2025-03-11,Closed Won,Negotiation,Closed Won,,54
+397,104004,208174,1262,29,1,Inbound - Web,2024-09-10,297000.0,5.2,2,2024-10-29,2024-10-29,Closed Lost,Proposal,Closed Lost,Budget Constraints,49
+398,117528,235169,1263,32,2,Outbound - Email,2025-10-12,101400.0,7.9,4,2026-01-03,2026-01-03,Closed Won,Negotiation,Closed Won,,83
+399,30252,60633,1272,25,10,Inbound - Web,2025-11-21,80100.0,6.5,4,2026-01-08,2026-01-08,Closed Lost,Negotiation,Closed Lost,Pricing Too High,48
+400,12754,25529,1275,78,6,Partner Channel,2025-06-24,539900.0,17.4,4,2025-10-04,2025-10-04,Closed Won,Negotiation,Closed Won,,102
+401,118757,237588,1281,53,14,Outbound - Cold Call,2025-05-30,16500.0,9.6,9,2025-07-24,2025-07-24,Closed Won,Negotiation,Closed Won,,55
+402,117861,235834,1285,26,14,Referral,2025-07-05,20000.0,5.1,4,2025-08-27,2025-08-27,Closed Lost,Proposal,Closed Lost,Pricing Too High,53
+403,35201,70472,1292,65,13,Inbound - Web,2025-05-06,369400.0,19.0,6,2025-07-29,2025-07-29,Closed Won,Negotiation,Closed Won,,84
+404,101814,203715,1293,28,7,Inbound - Web,2024-12-27,90200.0,9.4,1,2025-01-23,2025-01-23,Closed Lost,Negotiation,Closed Lost,Champion Left Company,27
+405,80386,160752,1297,48,1,Inbound - Web,2024-06-28,758600.0,7.1,4,2024-10-02,2024-10-02,Closed Lost,Proposal,Closed Lost,Budget Constraints,96
+406,85976,171925,1302,97,5,Partner Channel,2025-09-03,55600.0,6.3,4,2025-12-23,2025-12-23,Closed Lost,Negotiation,Closed Lost,Budget Constraints,111
+407,32547,65188,1303,156,14,Trade Show / Event,2025-01-11,1700.0,1.8,3,2025-03-02,2025-03-02,Closed Won,Negotiation,Closed Won,,50
+408,101373,202822,1304,74,15,Trade Show / Event,2026-01-17,75400.0,9.7,3,2026-04-03,2026-04-03,Closed Won,Negotiation,Closed Won,,76
+409,42770,85545,1307,109,6,Inbound - Web,2026-01-31,247900.0,9.2,3,2026-05-02,2026-05-02,Closed Lost,Negotiation,Closed Lost,No Decision / Timing,91
+410,71204,142432,1311,22,4,Outbound - Email,2026-07-05,612200.0,16.6,3,2026-08-24,2026-08-24,Closed Won,Negotiation,Closed Won,,50
+411,101614,203316,1315,74,13,Trade Show / Event,2025-07-28,174500.0,4.3,7,2025-10-05,2025-10-05,Closed Won,Negotiation,Closed Won,,69
+412,99973,199956,1318,66,1,Trade Show / Event,2025-08-20,224000.0,19.2,1,2025-10-21,2025-10-21,Closed Lost,Negotiation,Closed Lost,Chose Competitor,62
+413,76533,153104,1320,130,7,Outbound - Cold Call,2026-02-03,16700.0,18.0,2,2026-03-27,2026-03-27,Closed Lost,Negotiation,Closed Lost,Champion Left Company,52
+414,108371,216840,1325,48,3,Referral,2026-03-20,204400.0,4.8,3,2026-06-05,2026-06-05,Closed Lost,Proposal,Closed Lost,Chose Competitor,77
+415,70964,141954,1326,10,4,Referral,2025-06-18,613200.0,16.0,1,2025-08-07,2025-08-07,Closed Won,Negotiation,Closed Won,,50
+416,33039,66144,1336,170,13,Inbound - Web,2025-04-02,60700.0,1.6,3,2025-07-17,2025-07-17,Closed Lost,Negotiation,Closed Lost,Feature Gap,106
+417,67209,134465,1337,86,14,Trade Show / Event,2025-11-23,4800.0,5.7,3,2026-01-26,2026-01-26,Closed Lost,Negotiation,Closed Lost,Chose Competitor,64
+418,40292,80614,1338,10,8,Inbound - Web,2025-01-24,40400.0,4.2,3,2025-03-16,2025-03-16,Closed Won,Negotiation,Closed Won,,51
+419,101017,202079,1340,107,10,Referral,2024-03-14,43000.0,11.4,2,2024-06-10,2024-06-10,Closed Won,Negotiation,Closed Won,,88
+420,56168,112322,1341,44,7,Inbound - Web,2025-06-19,62000.0,8.9,3,2025-08-30,2025-08-30,Closed Won,Negotiation,Closed Won,,72
+421,50852,101597,1346,166,6,Referral,2024-05-18,429500.0,17.6,2,2024-07-21,2024-07-21,Closed Lost,Proposal,Closed Lost,No Decision / Timing,64
+422,9387,18879,1347,129,11,Inbound - Web,2024-06-24,15500.0,0.0,3,2024-08-20,2024-08-20,Closed Lost,Proposal,Closed Lost,Champion Left Company,57
+423,72955,145933,1349,173,14,Inbound - Web,2025-07-05,5100.0,6.1,2,2025-11-22,2025-11-22,Closed Lost,Negotiation,Closed Lost,No Decision / Timing,140
+424,53453,106882,1350,176,6,Inbound - Web,2025-12-11,117400.0,14.8,3,2026-01-20,2026-01-20,Closed Lost,Negotiation,Closed Lost,Pricing Too High,40
+425,75972,151973,1352,25,12,Outbound - Email,2024-08-24,36800.0,8.8,3,2025-02-17,2025-02-17,Closed Lost,Negotiation,Closed Lost,Chose Competitor,177
+426,118299,236691,1354,121,14,Partner Channel,2024-09-14,3200.0,2.8,5,2024-12-22,2024-12-22,Closed Won,Negotiation,Closed Won,,99
+427,15896,31851,1355,155,6,Referral,2025-01-10,223200.0,4.8,5,2025-02-15,2025-02-15,Closed Won,Negotiation,Closed Won,,36
+428,69435,138900,1356,180,14,Outbound - Email,2025-11-16,17500.0,17.7,1,2026-12-21,,Negotiation,Negotiation,Open,,400
+429,68734,137491,1367,93,11,Partner Channel,2024-09-08,255800.0,13.3,10,2024-12-10,2024-12-10,Closed Won,Negotiation,Closed Won,,93
+430,118541,237163,1368,172,9,Trade Show / Event,2025-06-18,76100.0,8.5,5,2025-08-27,2025-08-27,Closed Lost,Negotiation,Closed Lost,No Decision / Timing,70
+431,97842,195733,1369,128,4,Inbound - Web,2026-05-20,222500.0,6.3,3,2026-07-13,2026-07-13,Closed Lost,Proposal,Closed Lost,Budget Constraints,54
+432,102558,205234,1370,87,7,Referral,2026-03-30,106100.0,7.9,5,2026-09-07,2026-09-07,Closed Won,Negotiation,Closed Won,,161
+433,48055,96045,1374,39,6,Outbound - Cold Call,2024-09-28,367400.0,16.1,1,2024-10-21,2024-10-21,Closed Won,Negotiation,Closed Won,,23
+434,9486,19063,1375,48,4,Outbound - Cold Call,2026-03-17,179000.0,14.6,3,2026-04-30,2026-04-30,Closed Won,Negotiation,Closed Won,,44
+435,99202,198422,1377,66,11,Trade Show / Event,2024-09-06,101400.0,2.6,6,2024-11-29,2024-11-29,Closed Won,Negotiation,Closed Won,,84
+436,77708,155414,1380,164,8,Partner Channel,2024-01-25,22700.0,3.1,1,2024-03-10,2024-03-10,Closed Lost,Negotiation,Closed Lost,Feature Gap,45
+437,104455,209092,1385,65,9,Outbound - Email,2026-08-15,24200.0,9.3,1,2026-09-23,,Negotiation,Negotiation,Open,,39
+438,59662,119383,1386,44,10,Inbound - Web,2024-11-06,321500.0,14.8,4,2025-04-05,2025-04-05,Closed Won,Negotiation,Closed Won,,150
+439,95104,190253,1388,114,9,Inbound - Web,2025-06-09,323900.0,19.7,10,2026-02-09,2026-02-09,Closed Lost,Negotiation,Closed Lost,Budget Constraints,245
+440,55992,111961,1389,46,13,Inbound - Web,2026-07-01,18100.0,1.9,1,2026-08-01,2026-08-01,Closed Won,Negotiation,Closed Won,,31
+441,21528,43106,1390,106,3,Partner Channel,2026-08-06,344600.0,18.2,2,2026-10-09,,Proposal,Proposal,Open,,64
+442,36329,72734,1393,162,8,Inbound - Web,2025-02-11,370400.0,9.9,4,2025-04-11,2025-04-11,Closed Lost,Negotiation,Closed Lost,No Decision / Timing,59
+443,29555,59196,1394,15,4,Partner Channel,2024-03-30,283200.0,6.4,3,2024-06-04,2024-06-04,Closed Lost,Negotiation,Closed Lost,Champion Left Company,66
+444,68233,136499,1398,2,14,Trade Show / Event,2026-04-05,13500.0,7.2,2,2026-06-02,2026-06-02,Closed Lost,Negotiation,Closed Lost,Chose Competitor,58
+445,43384,86756,1400,73,2,Outbound - Cold Call,2024-03-15,147800.0,0.0,2,2024-06-16,2024-06-16,Closed Lost,Proposal,Closed Lost,No Decision / Timing,93
+446,84729,169429,1403,9,4,Outbound - Cold Call,2024-07-15,291200.0,16.9,1,2024-08-14,2024-08-14,Closed Lost,Negotiation,Closed Lost,Budget Constraints,30
+447,50188,100273,1405,15,6,Inbound - Web,2025-09-27,66200.0,13.5,3,2025-11-25,2025-11-25,Closed Won,Negotiation,Closed Won,,59
+448,70844,141722,1406,103,5,Outbound - Cold Call,2024-01-30,134800.0,11.1,4,2024-04-14,2024-04-14,Closed Lost,Negotiation,Closed Lost,No Decision / Timing,75
+449,87428,174836,1407,87,13,Outbound - Email,2024-09-11,135100.0,15.3,5,2024-12-17,2024-12-17,Closed Won,Negotiation,Closed Won,,97
+450,104109,208375,1410,147,5,Outbound - Email,2026-03-08,970900.0,18.0,7,2026-07-09,2026-07-09,Closed Lost,Proposal,Closed Lost,Chose Competitor,123
+451,45862,91671,1412,28,13,Inbound - Web,2026-02-24,36200.0,3.4,5,2026-05-15,2026-05-15,Closed Lost,Negotiation,Closed Lost,No Decision / Timing,80
+452,45834,91621,1415,96,14,Outbound - Email,2025-08-03,10400.0,1.6,2,2025-09-14,2025-09-14,Closed Lost,Proposal,Closed Lost,Budget Constraints,42
+453,52298,104526,1417,108,16,Outbound - Email,2025-11-19,22400.0,11.1,2,2026-01-19,2026-01-19,Closed Lost,Proposal,Closed Lost,Chose Competitor,61
+454,87174,174337,1421,152,14,Inbound - Web,2025-07-13,2100.0,0.0,2,2025-08-24,2025-08-24,Closed Lost,Negotiation,Closed Lost,Chose Competitor,42
+455,42837,85679,1424,75,4,Outbound - Email,2025-10-08,3137300.0,19.5,8,2026-01-17,2026-01-17,Closed Won,Negotiation,Closed Won,,101
+456,50952,101799,1425,51,9,Inbound - Web,2024-08-30,145200.0,23.3,7,2025-02-13,2025-02-13,Closed Lost,Negotiation,Closed Lost,Champion Left Company,167
+457,82372,164715,1428,120,5,Referral,2026-04-11,300200.0,13.7,4,2026-06-19,2026-06-19,Closed Won,Negotiation,Closed Won,,69
+458,78114,156224,1429,78,3,Trade Show / Event,2026-04-23,493600.0,19.5,2,2026-07-03,2026-07-03,Closed Lost,Negotiation,Closed Lost,Budget Constraints,71
+459,103904,207975,1438,161,6,Inbound - Web,2024-08-03,795400.0,16.4,5,2024-11-01,2024-11-01,Closed Lost,Negotiation,Closed Lost,Budget Constraints,90
+460,1834,3660,1440,170,2,Referral,2025-03-03,197600.0,4.6,3,2025-04-20,2025-04-20,Closed Lost,Negotiation,Closed Lost,No Decision / Timing,48
+461,26338,52777,1446,34,11,Trade Show / Event,2024-12-12,23200.0,0.4,2,2025-01-20,2025-01-20,Closed Lost,Proposal,Closed Lost,Feature Gap,39
+462,39978,79986,1448,150,12,Referral,2025-10-22,284500.0,20.1,2,2026-01-17,2026-01-17,Closed Won,Negotiation,Closed Won,,87
+463,29055,58206,1450,52,10,Inbound - Web,2026-06-29,105500.0,14.9,8,2026-10-30,,Proposal,Proposal,Open,,123
+464,35818,71728,1453,107,16,Inbound - Web,2025-12-01,16800.0,0.0,3,2026-01-29,2026-01-29,Closed Won,Negotiation,Closed Won,,59
+465,94120,188305,1456,147,13,Trade Show / Event,2025-07-08,41200.0,5.9,1,2025-10-01,2025-10-01,Closed Lost,Negotiation,Closed Lost,No Decision / Timing,85
+466,25930,51924,1460,78,9,Outbound - Cold Call,2025-08-24,22400.0,9.0,4,2025-10-22,2025-10-22,Closed Won,Negotiation,Closed Won,,59
+467,46492,92941,1462,90,6,Outbound - Email,2026-04-02,158700.0,11.3,2,2026-04-28,2026-04-28,Closed Lost,Negotiation,Closed Lost,No Decision / Timing,26
+468,5052,10159,1467,134,4,Partner Channel,2025-10-18,202200.0,10.8,2,2025-11-29,2025-11-29,Closed Lost,Negotiation,Closed Lost,Feature Gap,42
+469,60668,121381,1470,176,16,Inbound - Web,2024-10-25,35200.0,9.3,2,2024-11-28,2024-11-28,Closed Lost,Proposal,Closed Lost,Chose Competitor,34
+470,60322,120709,1476,85,10,Outbound - Email,2024-07-18,90600.0,16.6,1,2024-08-24,2024-08-24,Closed Lost,Proposal,Closed Lost,Champion Left Company,37
+471,5529,11123,1478,154,6,Inbound - Web,2024-11-30,64400.0,10.2,3,2025-01-23,2025-01-23,Closed Lost,Proposal,Closed Lost,Champion Left Company,54
+472,24580,49197,1484,111,4,Trade Show / Event,2026-05-16,452400.0,10.4,3,2026-09-18,2026-09-18,Closed Lost,Negotiation,Closed Lost,Budget Constraints,125
+473,21773,43591,1485,158,9,Inbound - Web,2024-06-13,73000.0,12.8,5,2024-11-05,2024-11-05,Closed Lost,Negotiation,Closed Lost,Champion Left Company,145
+474,109537,219182,1490,102,15,Inbound - Web,2026-03-14,68500.0,10.2,5,2026-08-03,2026-08-03,Closed Won,Negotiation,Closed Won,,142
+475,44697,89351,1491,39,5,Trade Show / Event,2024-11-15,81500.0,9.4,6,2025-02-02,2025-02-02,Closed Won,Negotiation,Closed Won,,79
+476,27506,55127,1492,17,1,Partner Channel,2024-03-03,183100.0,5.6,5,2024-05-30,2024-05-30,Closed Won,Negotiation,Closed Won,,88
+477,9382,18866,1495,168,11,Partner Channel,2024-12-06,61500.0,15.2,6,2025-03-06,2025-03-06,Closed Lost,Proposal,Closed Lost,Chose Competitor,90
+478,53381,106739,1496,113,6,Referral,2025-01-13,399200.0,9.8,1,2025-02-16,2025-02-16,Closed Won,Negotiation,Closed Won,,34
+479,47422,94728,1500,51,13,Referral,2025-11-10,59700.0,2.2,2,2026-02-05,2026-02-05,Closed Lost,Negotiation,Closed Lost,No Decision / Timing,87
+480,91105,182207,1509,139,11,Referral,2026-02-07,10100.0,7.6,3,2026-03-04,2026-03-04,Closed Won,Negotiation,Closed Won,,25
+481,21170,42390,1512,114,15,Partner Channel,2026-05-04,24800.0,0.0,2,2026-06-09,2026-06-09,Closed Lost,Proposal,Closed Lost,Budget Constraints,36
+482,27966,56037,1515,92,2,Inbound - Web,2026-07-07,206700.0,21.9,4,2026-09-10,2026-09-10,Closed Lost,Proposal,Closed Lost,Champion Left Company,65
+483,105511,211139,1517,158,2,Partner Channel,2026-08-11,85200.0,7.7,1,2026-09-05,2026-09-05,Closed Won,Negotiation,Closed Won,,25
+484,49834,99558,1522,161,13,Inbound - Web,2024-04-03,42600.0,2.2,4,2024-06-22,2024-06-22,Closed Lost,Proposal,Closed Lost,Champion Left Company,80
+485,70134,140299,1523,122,15,Trade Show / Event,2024-02-26,6800.0,0.0,2,2024-03-28,2024-03-28,Closed Won,Negotiation,Closed Won,,31
+486,106774,213638,1524,1,8,Trade Show / Event,2024-10-22,73000.0,3.8,2,2024-12-16,2024-12-16,Closed Won,Negotiation,Closed Won,,55
+487,81119,162213,1525,89,16,Outbound - Cold Call,2024-04-09,33900.0,15.2,4,2024-05-08,2024-05-08,Closed Won,Negotiation,Closed Won,,29
+488,7945,15923,1530,170,4,Outbound - Email,2025-11-25,376300.0,20.3,1,2026-01-04,2026-01-04,Closed Won,Negotiation,Closed Won,,40
+489,86411,172801,1534,130,7,Inbound - Web,2024-04-25,40700.0,6.6,5,2024-06-13,2024-06-13,Closed Lost,Negotiation,Closed Lost,Budget Constraints,49
+490,104678,209524,1536,9,8,Inbound - Web,2024-09-13,316000.0,11.1,3,2024-10-24,2024-10-24,Closed Lost,Proposal,Closed Lost,Budget Constraints,41
+491,113331,226798,1538,103,6,Inbound - Web,2025-08-16,103700.0,9.8,1,2025-09-14,2025-09-14,Closed Lost,Proposal,Closed Lost,Feature Gap,29
+492,102770,205660,1545,172,8,Referral,2025-02-11,47400.0,5.2,2,2025-03-17,2025-03-17,Closed Lost,Negotiation,Closed Lost,Chose Competitor,34
+493,30177,60480,1547,89,2,Inbound - Web,2024-12-27,91600.0,6.4,4,2025-02-26,2025-02-26,Closed Lost,Proposal,Closed Lost,Feature Gap,61
+494,116279,232710,1551,84,1,Outbound - Cold Call,2024-04-23,136400.0,5.8,5,2024-06-24,2024-06-24,Closed Won,Negotiation,Closed Won,,62
+495,38922,77874,1552,160,4,Outbound - Email,2026-05-28,717600.0,19.8,1,2026-08-03,2026-08-03,Closed Lost,Proposal,Closed Lost,Budget Constraints,67
+496,95547,191131,1558,115,11,Trade Show / Event,2024-06-13,30000.0,5.1,2,2024-07-20,2024-07-20,Closed Won,Negotiation,Closed Won,,37
+497,112143,224424,1561,100,6,Inbound - Web,2025-11-10,1640800.0,14.3,1,2025-12-21,2025-12-21,Closed Won,Negotiation,Closed Won,,41
+498,44477,88915,1562,21,1,Inbound - Web,2026-07-15,2021700.0,24.1,6,2026-10-31,,Proposal,Proposal,Open,,108
+499,20457,40960,1569,60,5,Outbound - Cold Call,2024-06-10,34000.0,9.1,3,2024-07-17,2024-07-17,Closed Won,Negotiation,Closed Won,,37
+500,98632,197314,1573,95,9,Trade Show / Event,2026-06-15,74800.0,9.6,3,2026-08-15,2026-08-15,Closed Won,Negotiation,Closed Won,,61

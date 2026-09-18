@@ -1,0 +1,21 @@
+feature,importance
+stage_number_at_scoring,0.15279084
+engagement_score,0.10206232
+stage_at_scoring_Needs Analysis,0.08847814
+company_size_band_SMB,0.08224096
+stage_at_scoring_Proposal,0.08089214
+stage_at_scoring_Negotiation,0.05822535
+rep_seniority_Junior,0.045274813
+company_size_band_Enterprise,0.045248564
+days_in_current_stage_at_scoring,0.041336976
+rep_seniority_Principal,0.028687634
+rep_seniority_Mid,0.023480063
+days_since_created_at_scoring,0.021235155
+source_Outbound - Cold Call,0.015537844
+rep_seniority_Senior,0.0144440485
+source_Referral,0.013138575
+employees,0.012996326
+num_activities_to_date,0.010681094
+pct_positive_outcome,0.0099704
+source_Outbound - Email,0.009252695
+num_stakeholders,0.008332679

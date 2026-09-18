@@ -1,0 +1,501 @@
+lead_id,account_id,source,created_date,lead_score,status,converted_to_opportunity,contact_id
+1,14223,Trade Show / Event,2025-04-06,40.7,Disqualified,False,28501
+2,66872,Outbound - Email,2025-12-11,15.6,Nurturing,False,133773
+3,16491,Outbound - Cold Call,2025-08-26,6.3,Disqualified,False,33029
+4,92196,Inbound - Web,2024-06-25,48.8,Nurturing,False,184388
+5,84865,Inbound - Web,2025-04-10,24.3,Disqualified,False,169709
+6,44490,Inbound - Web,2024-01-27,62.7,Converted,True,88943
+7,41551,Inbound - Web,2026-03-17,20.5,Disqualified,False,83129
+8,19547,Referral,2025-03-30,17.9,Disqualified,False,39110
+9,74804,Trade Show / Event,2024-03-07,13.7,Nurturing,False,149675
+10,99515,Outbound - Cold Call,2024-06-28,32.6,Nurturing,False,199042
+11,40983,Inbound - Web,2024-10-29,26.0,Converted,True,82012
+12,66754,Outbound - Cold Call,2026-01-23,26.1,Nurturing,False,133545
+13,58730,Partner Channel,2025-01-11,29.9,Nurturing,False,117475
+14,108069,Outbound - Cold Call,2024-03-04,11.3,Disqualified,False,216242
+15,3804,Referral,2025-02-09,11.8,Nurturing,False,7588
+16,100612,Referral,2024-10-25,32.6,Converted,True,201266
+17,36840,Partner Channel,2025-07-06,27.7,Nurturing,False,73753
+18,119552,Outbound - Email,2024-04-16,37.7,Disqualified,False,239204
+19,39553,Outbound - Cold Call,2026-01-04,12.0,Nurturing,False,79121
+20,93470,Partner Channel,2024-09-17,57.1,Converted,True,186994
+21,112359,Referral,2026-03-24,59.5,Nurturing,False,224848
+22,14512,Inbound - Web,2025-06-03,18.9,Converted,True,29075
+23,21082,Outbound - Cold Call,2024-04-27,18.3,Disqualified,False,42224
+24,6276,Inbound - Web,2025-07-05,26.0,Converted,True,12626
+25,12772,Referral,2024-08-21,40.7,Converted,True,25567
+26,49590,Trade Show / Event,2025-06-13,38.3,Nurturing,False,99078
+27,81655,Outbound - Email,2026-06-08,12.6,Nurturing,False,163285
+28,20602,Outbound - Cold Call,2025-09-13,24.7,Disqualified,False,41263
+29,72138,Inbound - Web,2025-08-28,42.8,Disqualified,False,144302
+30,59280,Inbound - Web,2026-05-14,50.1,Converted,True,118601
+31,34466,Inbound - Web,2025-06-13,49.9,Nurturing,False,68984
+32,10638,Outbound - Email,2024-09-12,18.2,Disqualified,False,21317
+33,112963,Referral,2025-05-16,20.7,Nurturing,False,226061
+34,24475,Partner Channel,2024-07-12,33.2,Disqualified,False,48978
+35,4274,Outbound - Cold Call,2024-07-22,37.6,Disqualified,False,8566
+36,8624,Inbound - Web,2024-11-18,18.3,Disqualified,False,17340
+37,107430,Inbound - Web,2026-02-08,48.8,Converted,True,214966
+38,109323,Outbound - Cold Call,2025-09-15,15.5,Disqualified,False,218740
+39,41255,Outbound - Cold Call,2025-01-12,38.3,Converted,True,82546
+40,90443,Inbound - Web,2026-03-14,10.2,Nurturing,False,180845
+41,38117,Inbound - Web,2025-05-02,38.0,Disqualified,False,76279
+42,40716,Inbound - Web,2024-06-21,43.0,Disqualified,False,81456
+43,64634,Outbound - Email,2026-01-26,30.7,Disqualified,False,129310
+44,59103,Referral,2026-03-28,46.7,Disqualified,False,118238
+45,115969,Outbound - Email,2026-05-22,27.7,Disqualified,False,232079
+46,30367,Outbound - Email,2025-05-28,40.9,Disqualified,False,60878
+47,22048,Outbound - Email,2025-09-23,22.0,Disqualified,False,44121
+48,2124,Inbound - Web,2025-08-11,7.1,Disqualified,False,4228
+49,75871,Outbound - Email,2025-06-29,59.8,Converted,True,151774
+50,50270,Inbound - Web,2024-04-19,56.7,Disqualified,False,100428
+51,111067,Outbound - Cold Call,2024-06-22,16.1,Nurturing,False,222232
+52,6243,Referral,2024-09-01,67.7,Disqualified,False,12558
+53,98365,Outbound - Email,2025-07-08,41.9,Nurturing,False,196776
+54,73666,Partner Channel,2024-09-25,22.1,Nurturing,False,147369
+55,4901,Inbound - Web,2026-02-10,25.0,Disqualified,False,9849
+56,71890,Partner Channel,2025-12-27,31.8,Nurturing,False,143816
+57,97324,Trade Show / Event,2024-06-20,52.6,Disqualified,False,194708
+58,29125,Inbound - Web,2025-04-17,41.7,Disqualified,False,58344
+59,105762,Referral,2025-02-25,21.0,Disqualified,False,211623
+60,60897,Outbound - Cold Call,2024-02-13,31.8,Converted,True,121840
+61,88152,Inbound - Web,2025-05-15,39.6,Disqualified,False,176266
+62,93571,Referral,2026-01-21,30.9,Disqualified,False,187198
+63,19623,Referral,2024-03-04,35.7,Converted,True,39263
+64,119912,Referral,2024-07-14,54.3,Converted,True,239940
+65,98878,Outbound - Cold Call,2024-02-17,22.1,Disqualified,False,197804
+66,18395,Referral,2024-12-12,12.8,Disqualified,False,36778
+67,68643,Trade Show / Event,2026-08-05,15.1,Disqualified,False,137309
+68,23843,Referral,2026-08-09,37.3,Disqualified,False,47751
+69,20076,Partner Channel,2024-02-17,17.2,Disqualified,False,40190
+70,104402,Outbound - Cold Call,2024-08-15,22.2,Converted,True,208975
+71,93911,Inbound - Web,2025-08-30,29.9,Converted,True,187885
+72,3486,Trade Show / Event,2024-12-02,23.1,Converted,True,6957
+73,22939,Inbound - Web,2025-09-11,38.8,Disqualified,False,45933
+74,90526,Inbound - Web,2024-04-29,21.8,Disqualified,False,181016
+75,55057,Referral,2024-01-12,21.0,Nurturing,False,110100
+76,61608,Inbound - Web,2025-05-03,58.5,Nurturing,False,123257
+77,65754,Outbound - Cold Call,2024-12-10,29.5,Disqualified,False,131569
+78,53986,Outbound - Cold Call,2025-04-05,25.0,Nurturing,False,107943
+79,24064,Inbound - Web,2025-03-10,21.7,Disqualified,False,48180
+80,111072,Partner Channel,2024-08-04,42.7,Converted,True,222240
+81,64886,Partner Channel,2025-07-09,15.2,Disqualified,False,129813
+82,23568,Inbound - Web,2026-07-22,33.0,Disqualified,False,47184
+83,46356,Partner Channel,2025-06-27,10.2,Converted,True,92658
+84,44355,Referral,2024-04-25,58.1,Converted,True,88675
+85,101747,Referral,2024-09-20,37.9,Nurturing,False,203583
+86,117551,Outbound - Email,2025-12-22,40.8,Disqualified,False,235206
+87,950,Partner Channel,2026-06-27,29.5,Disqualified,False,1904
+88,29024,Inbound - Web,2025-08-14,20.3,Nurturing,False,58147
+89,75332,Referral,2024-12-15,37.5,Converted,True,150683
+90,47523,Inbound - Web,2026-07-07,26.7,Nurturing,False,94955
+91,46840,Outbound - Cold Call,2025-06-17,20.7,Converted,True,93606
+92,79492,Referral,2025-02-02,34.5,Nurturing,False,158982
+93,30706,Referral,2024-10-22,51.8,Nurturing,False,61562
+94,30053,Trade Show / Event,2024-10-27,19.2,Nurturing,False,60229
+95,45728,Outbound - Email,2026-03-27,29.8,Disqualified,False,91411
+96,37172,Inbound - Web,2025-01-23,36.4,Disqualified,False,74404
+97,34446,Inbound - Web,2024-07-12,42.6,Converted,True,68944
+98,13904,Partner Channel,2025-04-04,19.1,Disqualified,False,27870
+99,79614,Inbound - Web,2024-03-21,24.9,Nurturing,False,159215
+100,9196,Outbound - Email,2025-03-01,40.8,Disqualified,False,18480
+101,89756,Inbound - Web,2026-08-06,19.5,Disqualified,False,179419
+102,60245,Outbound - Email,2026-02-08,30.8,Disqualified,False,120561
+103,63610,Outbound - Cold Call,2025-05-17,44.7,Disqualified,False,127283
+104,86634,Inbound - Web,2024-06-22,29.9,Converted,True,173263
+105,50587,Trade Show / Event,2024-07-06,42.3,Converted,True,101059
+106,69981,Inbound - Web,2025-11-27,31.8,Converted,True,139986
+107,63051,Outbound - Email,2026-06-16,60.9,Nurturing,False,126165
+108,104137,Inbound - Web,2026-01-25,21.2,Converted,True,208431
+109,5881,Partner Channel,2025-03-04,15.3,Disqualified,False,11830
+110,54055,Inbound - Web,2024-01-31,22.8,Converted,True,108087
+111,116027,Outbound - Email,2024-05-26,48.7,Converted,True,232203
+112,27751,Outbound - Email,2026-04-09,27.6,Converted,True,55610
+113,79257,Referral,2024-05-05,28.6,Disqualified,False,158511
+114,55111,Outbound - Email,2026-05-25,41.3,Disqualified,False,110201
+115,74360,Trade Show / Event,2024-10-02,31.9,Nurturing,False,148793
+116,71615,Trade Show / Event,2025-04-05,44.4,Converted,True,143267
+117,110487,Outbound - Cold Call,2025-09-25,48.3,Nurturing,False,221075
+118,31578,Outbound - Cold Call,2026-08-11,34.1,Disqualified,False,63246
+119,48753,Inbound - Web,2025-03-31,20.8,Disqualified,False,97437
+120,63450,Outbound - Email,2025-06-28,22.3,Disqualified,False,126964
+121,101501,Partner Channel,2026-07-12,15.2,Nurturing,False,203072
+122,791,Inbound - Web,2025-12-27,36.7,Converted,True,1602
+123,55320,Inbound - Web,2025-10-28,34.3,Nurturing,False,110615
+124,51476,Inbound - Web,2024-08-07,30.2,Nurturing,False,102880
+125,76862,Inbound - Web,2026-04-21,39.7,Converted,True,153738
+126,70792,Inbound - Web,2024-11-10,13.4,Disqualified,False,141624
+127,65943,Outbound - Email,2025-04-23,25.9,Disqualified,False,131941
+128,5455,Inbound - Web,2026-03-15,38.4,Converted,True,10979
+129,88544,Outbound - Email,2025-06-01,29.8,Disqualified,False,177042
+130,51555,Inbound - Web,2024-02-25,59.2,Disqualified,False,103046
+131,5933,Partner Channel,2026-03-22,42.1,Disqualified,False,11933
+132,77681,Inbound - Web,2025-06-11,74.5,Disqualified,False,155360
+133,91822,Partner Channel,2024-08-10,60.8,Converted,True,183649
+134,78594,Trade Show / Event,2026-07-23,75.9,Converted,True,157179
+135,31612,Inbound - Web,2025-09-13,49.7,Nurturing,False,63307
+136,102584,Inbound - Web,2025-05-01,32.5,Nurturing,False,205282
+137,112464,Referral,2025-01-13,60.5,Nurturing,False,225058
+138,109883,Referral,2025-05-23,44.8,Converted,True,219865
+139,45446,Trade Show / Event,2025-06-23,36.8,Converted,True,90850
+140,24995,Referral,2026-04-04,37.6,Nurturing,False,50037
+141,37371,Partner Channel,2025-12-24,32.2,Converted,True,74811
+142,14920,Partner Channel,2025-03-15,52.9,Disqualified,False,29912
+143,58376,Outbound - Email,2025-09-02,29.0,Nurturing,False,116765
+144,52567,Outbound - Cold Call,2026-03-05,21.6,Disqualified,False,105065
+145,18143,Trade Show / Event,2024-07-12,21.2,Disqualified,False,36306
+146,110077,Outbound - Cold Call,2026-03-29,20.6,Disqualified,False,220238
+147,92869,Referral,2024-11-14,21.0,Nurturing,False,185795
+148,88310,Referral,2026-02-12,50.8,Nurturing,False,176575
+149,116430,Outbound - Cold Call,2025-08-21,32.1,Nurturing,False,233000
+150,2118,Partner Channel,2025-11-30,37.2,Disqualified,False,4216
+151,49127,Referral,2025-06-17,47.4,Converted,True,98178
+152,72931,Partner Channel,2024-03-28,79.5,Disqualified,False,145884
+153,101332,Partner Channel,2026-02-01,20.4,Disqualified,False,202741
+154,22660,Inbound - Web,2026-04-12,47.1,Disqualified,False,45358
+155,90935,Outbound - Cold Call,2024-06-06,50.3,Converted,True,181877
+156,17028,Inbound - Web,2025-04-21,25.5,Disqualified,False,34097
+157,65809,Inbound - Web,2024-03-15,36.6,Nurturing,False,131686
+158,90467,Partner Channel,2024-11-11,39.2,Nurturing,False,180896
+159,579,Inbound - Web,2024-06-18,17.7,Disqualified,False,1189
+160,78928,Inbound - Web,2026-07-07,36.3,Converted,True,157853
+161,68560,Inbound - Web,2024-08-06,40.4,Converted,True,137140
+162,16824,Outbound - Email,2025-07-23,26.4,Disqualified,False,33684
+163,3642,Referral,2024-05-27,31.0,Nurturing,False,7277
+164,92295,Referral,2026-07-10,40.7,Converted,True,184608
+165,36118,Outbound - Email,2026-07-22,15.8,Disqualified,False,72342
+166,84350,Inbound - Web,2025-06-07,34.5,Converted,True,168647
+167,97674,Referral,2026-01-11,36.9,Nurturing,False,195392
+168,103112,Outbound - Email,2024-08-10,32.5,Nurturing,False,206362
+169,40414,Inbound - Web,2026-03-03,17.0,Nurturing,False,80861
+170,24450,Outbound - Email,2026-01-03,37.5,Nurturing,False,48931
+171,87110,Trade Show / Event,2025-05-12,49.4,Disqualified,False,174199
+172,35139,Inbound - Web,2026-05-14,26.6,Converted,True,70349
+173,44732,Outbound - Cold Call,2024-03-30,16.5,Nurturing,False,89421
+174,69635,Outbound - Email,2024-10-24,56.0,Converted,True,139310
+175,24482,Referral,2025-12-29,37.9,Disqualified,False,48991
+176,18145,Inbound - Web,2024-11-21,34.1,Disqualified,False,36310
+177,4036,Inbound - Web,2026-07-25,50.6,Disqualified,False,8067
+178,46535,Referral,2026-07-23,17.9,Nurturing,False,93027
+179,66293,Referral,2025-11-05,28.6,Disqualified,False,132637
+180,114930,Outbound - Email,2024-10-16,45.8,Disqualified,False,230019
+181,35364,Inbound - Web,2024-12-08,71.3,Converted,True,70812
+182,10696,Outbound - Email,2025-05-01,44.0,Converted,True,21431
+183,76332,Inbound - Web,2024-02-13,16.0,Nurturing,False,152683
+184,3770,Outbound - Cold Call,2026-01-06,41.7,Disqualified,False,7530
+185,21703,Outbound - Email,2024-05-29,36.5,Converted,True,43452
+186,104110,Inbound - Web,2025-10-12,2.5,Nurturing,False,208377
+187,66598,Inbound - Web,2026-06-09,28.0,Disqualified,False,133235
+188,61026,Partner Channel,2026-06-21,23.7,Converted,True,122107
+189,94536,Partner Channel,2025-03-19,41.3,Converted,True,189131
+190,91414,Referral,2024-03-26,17.6,Disqualified,False,182826
+191,32114,Outbound - Email,2026-03-17,16.0,Nurturing,False,64328
+192,52057,Trade Show / Event,2024-06-22,55.9,Disqualified,False,104043
+193,49770,Inbound - Web,2025-10-16,30.2,Nurturing,False,99430
+194,95887,Outbound - Cold Call,2025-01-16,13.6,Nurturing,False,191815
+195,64629,Referral,2025-04-04,44.2,Converted,True,129299
+196,104602,Inbound - Web,2025-02-15,26.7,Disqualified,False,209380
+197,118639,Trade Show / Event,2024-12-30,23.8,Converted,True,237355
+198,107719,Referral,2026-04-11,43.9,Converted,True,215536
+199,56045,Trade Show / Event,2026-05-14,36.5,Disqualified,False,112068
+200,109242,Outbound - Email,2025-07-27,17.5,Converted,True,218581
+201,73884,Inbound - Web,2025-03-29,39.1,Nurturing,False,147813
+202,29448,Referral,2024-02-03,30.2,Converted,True,58981
+203,2266,Inbound - Web,2025-04-02,30.4,Disqualified,False,4511
+204,48935,Referral,2025-11-29,50.8,Disqualified,False,97810
+205,97954,Outbound - Email,2026-04-02,4.8,Disqualified,False,195961
+206,7635,Inbound - Web,2025-03-05,53.0,Nurturing,False,15305
+207,94048,Partner Channel,2025-04-06,33.1,Disqualified,False,188164
+208,97221,Outbound - Email,2024-10-11,4.9,Nurturing,False,194503
+209,95844,Trade Show / Event,2026-01-14,26.2,Disqualified,False,191729
+210,109059,Referral,2024-10-07,45.5,Disqualified,False,218203
+211,9747,Inbound - Web,2025-11-27,41.3,Nurturing,False,19555
+212,3321,Trade Show / Event,2026-01-21,29.7,Converted,True,6622
+213,85560,Trade Show / Event,2024-02-18,11.0,Disqualified,False,171105
+214,103920,Referral,2024-11-24,26.7,Disqualified,False,208004
+215,24290,Referral,2026-01-28,18.0,Nurturing,False,48619
+216,103848,Partner Channel,2026-06-25,39.7,Disqualified,False,207863
+217,21898,Outbound - Email,2024-09-01,43.1,Disqualified,False,43829
+218,111526,Outbound - Email,2024-06-19,12.9,Nurturing,False,223149
+219,39957,Outbound - Email,2026-06-05,44.3,Disqualified,False,79948
+220,50786,Inbound - Web,2025-08-08,51.3,Converted,True,101458
+221,63093,Inbound - Web,2026-01-09,30.5,Disqualified,False,126254
+222,38011,Referral,2025-01-28,44.4,Nurturing,False,76070
+223,110519,Outbound - Email,2026-01-08,35.9,Nurturing,False,221138
+224,91685,Referral,2025-10-21,31.4,Converted,True,183374
+225,37732,Partner Channel,2024-07-23,41.7,Nurturing,False,75516
+226,113013,Inbound - Web,2025-04-13,21.1,Converted,True,226160
+227,39229,Inbound - Web,2024-08-13,54.6,Disqualified,False,78474
+228,43143,Outbound - Cold Call,2025-09-13,24.4,Nurturing,False,86290
+229,18488,Outbound - Email,2026-04-16,38.9,Converted,True,36976
+230,91654,Partner Channel,2026-02-27,53.3,Converted,True,183314
+231,86027,Referral,2025-07-20,46.5,Converted,True,172027
+232,9278,Partner Channel,2025-04-21,50.3,Disqualified,False,18651
+233,38774,Outbound - Email,2025-11-28,14.7,Disqualified,False,77574
+234,45923,Outbound - Cold Call,2024-05-23,39.5,Nurturing,False,91795
+235,67052,Inbound - Web,2024-10-21,46.6,Nurturing,False,134129
+236,31169,Trade Show / Event,2025-02-08,44.2,Nurturing,False,62444
+237,92074,Partner Channel,2026-03-30,16.9,Converted,True,184156
+238,70253,Inbound - Web,2025-03-30,37.7,Converted,True,140532
+239,28991,Inbound - Web,2026-07-20,44.8,Disqualified,False,58086
+240,10160,Inbound - Web,2025-10-15,23.7,Disqualified,False,20351
+241,83312,Trade Show / Event,2025-08-17,31.1,Converted,True,166585
+242,45536,Trade Show / Event,2024-04-05,34.6,Converted,True,91036
+243,51854,Referral,2024-07-10,12.0,Nurturing,False,103643
+244,71805,Referral,2025-04-08,43.3,Nurturing,False,143647
+245,25978,Inbound - Web,2025-06-11,27.6,Nurturing,False,52019
+246,24662,Outbound - Cold Call,2026-01-24,32.2,Disqualified,False,49364
+247,42844,Outbound - Cold Call,2026-05-11,21.6,Disqualified,False,85693
+248,15050,Outbound - Cold Call,2025-11-13,37.3,Converted,True,30182
+249,107578,Inbound - Web,2024-08-23,24.9,Converted,True,215265
+250,38804,Inbound - Web,2024-02-06,36.4,Converted,True,77631
+251,48527,Trade Show / Event,2025-01-06,28.9,Disqualified,False,96987
+252,103828,Inbound - Web,2025-11-17,27.1,Nurturing,False,207814
+253,118760,Inbound - Web,2024-03-10,33.9,Converted,True,237593
+254,45131,Trade Show / Event,2025-11-10,47.2,Converted,True,90210
+255,97314,Partner Channel,2025-09-01,30.5,Nurturing,False,194686
+256,28219,Outbound - Email,2025-11-06,25.5,Nurturing,False,56534
+257,16699,Outbound - Email,2024-11-09,46.8,Disqualified,False,33430
+258,62838,Referral,2025-02-12,59.0,Converted,True,125735
+259,99176,Partner Channel,2025-07-15,25.9,Disqualified,False,198368
+260,50023,Inbound - Web,2026-04-26,41.5,Disqualified,False,99946
+261,107683,Outbound - Email,2024-12-27,26.2,Disqualified,False,215466
+262,118510,Referral,2024-10-25,49.1,Nurturing,False,237107
+263,86139,Inbound - Web,2025-01-06,49.4,Disqualified,False,172255
+264,114436,Inbound - Web,2025-09-02,31.7,Disqualified,False,229049
+265,43092,Referral,2024-02-29,8.4,Disqualified,False,86186
+266,20293,Outbound - Email,2025-09-13,23.6,Converted,True,40619
+267,101242,Inbound - Web,2024-12-30,57.6,Converted,True,202537
+268,76440,Inbound - Web,2024-06-02,43.1,Converted,True,152908
+269,43269,Inbound - Web,2025-08-28,44.1,Converted,True,86534
+270,23529,Inbound - Web,2025-07-31,25.0,Nurturing,False,47112
+271,32392,Outbound - Cold Call,2024-09-29,12.8,Nurturing,False,64886
+272,7573,Outbound - Cold Call,2026-05-12,35.1,Converted,True,15177
+273,88051,Referral,2025-09-28,30.2,Disqualified,False,176063
+274,102086,Outbound - Cold Call,2024-10-10,20.7,Disqualified,False,204255
+275,4759,Outbound - Cold Call,2025-11-01,34.9,Nurturing,False,9557
+276,103872,Inbound - Web,2024-08-15,31.4,Converted,True,207913
+277,45189,Inbound - Web,2026-02-09,18.2,Converted,True,90323
+278,77949,Outbound - Cold Call,2026-07-16,31.8,Converted,True,155902
+279,89458,Outbound - Cold Call,2026-05-03,25.0,Disqualified,False,178817
+280,55783,Referral,2025-02-27,41.2,Converted,True,111555
+281,39245,Outbound - Email,2025-07-26,6.0,Converted,True,78507
+282,68739,Referral,2024-11-23,22.3,Nurturing,False,137497
+283,80432,Referral,2024-05-27,29.8,Disqualified,False,160851
+284,56387,Inbound - Web,2024-08-12,24.9,Disqualified,False,112766
+285,28547,Outbound - Cold Call,2024-12-01,38.4,Converted,True,57193
+286,13362,Referral,2024-01-18,27.0,Disqualified,False,26750
+287,72644,Outbound - Cold Call,2024-05-23,26.8,Disqualified,False,145304
+288,93194,Inbound - Web,2024-12-28,35.8,Nurturing,False,186426
+289,80927,Outbound - Cold Call,2025-07-28,42.8,Nurturing,False,161808
+290,86073,Referral,2026-01-07,37.9,Disqualified,False,172121
+291,92850,Partner Channel,2026-03-01,60.8,Converted,True,185758
+292,49914,Inbound - Web,2025-09-11,9.6,Disqualified,False,99719
+293,76270,Outbound - Cold Call,2025-07-24,31.4,Nurturing,False,152558
+294,99349,Partner Channel,2025-12-15,22.9,Disqualified,False,198709
+295,82591,Partner Channel,2025-01-18,18.5,Nurturing,False,165150
+296,109382,Referral,2025-10-16,52.8,Converted,True,218869
+297,13751,Trade Show / Event,2024-10-15,23.5,Disqualified,False,27563
+298,28496,Referral,2026-01-17,36.6,Converted,True,57091
+299,52372,Inbound - Web,2026-04-05,46.2,Converted,True,104678
+300,48357,Outbound - Email,2024-05-02,40.0,Disqualified,False,96657
+301,52086,Referral,2025-03-11,37.3,Converted,True,104104
+302,111479,Outbound - Email,2024-03-26,24.9,Disqualified,False,223052
+303,29491,Outbound - Email,2024-04-06,31.2,Nurturing,False,59067
+304,101622,Trade Show / Event,2024-04-14,17.1,Converted,True,203328
+305,5073,Inbound - Web,2024-02-07,14.1,Converted,True,10197
+306,24591,Outbound - Email,2026-01-06,44.2,Converted,True,49220
+307,70592,Inbound - Web,2026-08-11,45.1,Disqualified,False,141209
+308,522,Inbound - Web,2024-05-21,1.0,Disqualified,False,1072
+309,109399,Inbound - Web,2026-06-07,18.2,Disqualified,False,218901
+310,16206,Referral,2024-05-18,25.4,Nurturing,False,32467
+311,119053,Trade Show / Event,2026-02-25,50.3,Converted,True,238187
+312,105000,Partner Channel,2025-03-23,50.4,Converted,True,210164
+313,70237,Referral,2025-11-19,21.8,Converted,True,140501
+314,113817,Outbound - Cold Call,2025-03-07,40.8,Disqualified,False,227772
+315,55644,Trade Show / Event,2024-11-13,16.3,Disqualified,False,111268
+316,26517,Inbound - Web,2025-03-01,31.3,Nurturing,False,53134
+317,75885,Referral,2026-06-27,11.8,Nurturing,False,151804
+318,11416,Referral,2024-12-01,34.6,Converted,True,22872
+319,2909,Inbound - Web,2024-04-25,17.0,Converted,True,5804
+320,106123,Partner Channel,2025-02-27,23.0,Converted,True,212317
+321,32061,Trade Show / Event,2026-05-03,43.6,Converted,True,64229
+322,26771,Outbound - Email,2024-10-28,35.3,Nurturing,False,53630
+323,106647,Referral,2026-05-08,19.2,Disqualified,False,213397
+324,109143,Trade Show / Event,2024-08-20,22.7,Nurturing,False,218379
+325,82676,Outbound - Email,2026-01-01,35.5,Converted,True,165309
+326,73821,Inbound - Web,2025-03-25,42.3,Disqualified,False,147691
+327,92,Trade Show / Event,2025-07-04,67.4,Nurturing,False,182
+328,105368,Trade Show / Event,2025-12-27,21.4,Nurturing,False,210864
+329,109249,Outbound - Cold Call,2025-04-17,36.3,Nurturing,False,218595
+330,32638,Inbound - Web,2024-07-10,13.0,Converted,True,65365
+331,119925,Inbound - Web,2024-10-24,38.3,Converted,True,239963
+332,53830,Referral,2024-04-04,3.9,Converted,True,107650
+333,18689,Inbound - Web,2025-12-07,17.0,Disqualified,False,37370
+334,79660,Partner Channel,2026-07-02,38.1,Converted,True,159299
+335,32776,Inbound - Web,2024-06-12,28.4,Disqualified,False,65639
+336,20233,Outbound - Email,2024-07-31,17.8,Nurturing,False,40505
+337,73702,Partner Channel,2026-07-30,10.2,Disqualified,False,147443
+338,107887,Outbound - Cold Call,2024-01-26,30.0,Converted,True,215891
+339,80377,Inbound - Web,2025-05-06,62.5,Converted,True,160736
+340,41916,Trade Show / Event,2025-03-28,41.6,Nurturing,False,83854
+341,109319,Outbound - Cold Call,2025-12-14,36.8,Disqualified,False,218735
+342,39204,Inbound - Web,2026-01-27,52.8,Disqualified,False,78427
+343,6886,Outbound - Cold Call,2025-07-17,37.9,Nurturing,False,13841
+344,80019,Outbound - Email,2025-05-25,9.9,Disqualified,False,160018
+345,24313,Inbound - Web,2025-02-23,18.5,Disqualified,False,48665
+346,29647,Outbound - Email,2024-01-10,35.0,Converted,True,59403
+347,38246,Inbound - Web,2025-08-04,15.7,Nurturing,False,76545
+348,58724,Outbound - Cold Call,2024-10-02,34.5,Converted,True,117460
+349,108834,Inbound - Web,2024-06-27,39.9,Disqualified,False,217753
+350,35505,Inbound - Web,2024-06-03,34.9,Disqualified,False,71084
+351,45168,Partner Channel,2025-04-24,58.0,Converted,True,90280
+352,28296,Partner Channel,2024-05-02,55.2,Disqualified,False,56692
+353,48000,Outbound - Cold Call,2024-08-12,36.4,Disqualified,False,95930
+354,109249,Outbound - Email,2025-05-30,4.1,Disqualified,False,218596
+355,49657,Trade Show / Event,2024-03-04,19.2,Nurturing,False,99212
+356,64401,Inbound - Web,2026-05-27,23.5,Nurturing,False,128842
+357,64238,Referral,2025-03-09,63.8,Nurturing,False,128517
+358,71377,Trade Show / Event,2025-05-03,31.8,Disqualified,False,142790
+359,45401,Outbound - Email,2025-03-23,15.6,Nurturing,False,90757
+360,108289,Outbound - Email,2024-06-08,74.0,Nurturing,False,216680
+361,86673,Referral,2026-04-13,21.3,Converted,True,173330
+362,12950,Outbound - Email,2025-05-03,45.7,Disqualified,False,25926
+363,33429,Partner Channel,2026-01-27,11.2,Converted,True,66902
+364,71721,Outbound - Cold Call,2026-01-02,25.7,Disqualified,False,143472
+365,80595,Inbound - Web,2026-06-30,28.9,Nurturing,False,161149
+366,19786,Inbound - Web,2024-10-11,30.3,Converted,True,39596
+367,56293,Referral,2025-09-09,35.5,Converted,True,112578
+368,73787,Inbound - Web,2026-02-16,25.8,Disqualified,False,147620
+369,92740,Referral,2026-07-13,42.9,Disqualified,False,185539
+370,40813,Outbound - Cold Call,2026-02-23,39.9,Nurturing,False,81662
+371,67952,Referral,2026-03-31,25.7,Nurturing,False,135953
+372,38117,Partner Channel,2026-04-01,21.9,Nurturing,False,76279
+373,39702,Partner Channel,2024-12-01,25.9,Nurturing,False,79430
+374,99942,Trade Show / Event,2024-04-05,35.1,Converted,True,199890
+375,20524,Trade Show / Event,2026-03-27,39.4,Nurturing,False,41096
+376,4354,Inbound - Web,2025-08-23,24.5,Disqualified,False,8721
+377,51533,Inbound - Web,2024-08-20,20.1,Converted,True,102997
+378,59285,Outbound - Cold Call,2025-09-22,12.8,Disqualified,False,118612
+379,87118,Outbound - Cold Call,2025-02-11,37.8,Converted,True,174216
+380,63183,Outbound - Email,2026-02-09,25.8,Disqualified,False,126427
+381,94829,Trade Show / Event,2024-11-19,23.5,Nurturing,False,189709
+382,44139,Inbound - Web,2024-02-19,26.1,Disqualified,False,88263
+383,95676,Inbound - Web,2026-07-03,59.8,Disqualified,False,191387
+384,62047,Outbound - Cold Call,2025-11-03,38.2,Nurturing,False,124132
+385,53453,Trade Show / Event,2024-04-09,39.0,Disqualified,False,106883
+386,108056,Outbound - Email,2025-05-10,41.3,Converted,True,216220
+387,63048,Outbound - Cold Call,2024-01-02,25.6,Disqualified,False,126160
+388,43175,Outbound - Cold Call,2024-12-23,46.8,Nurturing,False,86348
+389,56590,Inbound - Web,2024-01-20,6.8,Disqualified,False,113161
+390,86293,Outbound - Cold Call,2025-11-29,34.0,Converted,True,172572
+391,111683,Outbound - Cold Call,2024-08-04,16.0,Nurturing,False,223469
+392,56640,Partner Channel,2025-05-24,39.2,Disqualified,False,113262
+393,68130,Partner Channel,2025-04-28,29.7,Disqualified,False,136295
+394,5825,Outbound - Email,2026-07-31,27.3,Nurturing,False,11727
+395,47539,Outbound - Email,2025-09-05,23.9,Disqualified,False,94991
+396,51110,Referral,2024-09-11,54.1,Converted,True,102136
+397,71031,Outbound - Email,2025-02-14,46.5,Converted,True,142082
+398,89961,Inbound - Web,2024-04-23,42.5,Nurturing,False,179834
+399,10863,Inbound - Web,2024-05-31,33.2,Converted,True,21768
+400,36198,Inbound - Web,2024-08-09,29.8,Nurturing,False,72486
+401,7973,Inbound - Web,2026-03-31,37.7,Converted,True,15978
+402,77960,Trade Show / Event,2025-09-06,5.3,Nurturing,False,155923
+403,118564,Inbound - Web,2025-12-17,20.9,Nurturing,False,237208
+404,45244,Referral,2025-02-15,66.5,Converted,True,90428
+405,11411,Outbound - Cold Call,2024-10-08,7.7,Converted,True,22861
+406,18123,Trade Show / Event,2024-12-15,37.6,Nurturing,False,36266
+407,80557,Outbound - Cold Call,2026-04-10,31.8,Nurturing,False,161075
+408,70570,Partner Channel,2025-05-25,59.5,Converted,True,141164
+409,55492,Outbound - Cold Call,2025-01-27,72.0,Converted,True,110964
+410,93075,Referral,2026-07-20,18.4,Nurturing,False,186194
+411,39893,Referral,2025-11-18,62.3,Nurturing,False,79814
+412,15096,Partner Channel,2024-08-10,11.0,Nurturing,False,30268
+413,70035,Outbound - Email,2024-12-24,49.5,Nurturing,False,140097
+414,86244,Referral,2025-02-21,44.1,Converted,True,172480
+415,9017,Trade Show / Event,2024-01-29,18.9,Converted,True,18127
+416,33141,Outbound - Email,2025-05-22,10.7,Nurturing,False,66340
+417,78665,Outbound - Cold Call,2025-04-29,12.8,Nurturing,False,157330
+418,80978,Outbound - Email,2025-06-11,61.2,Disqualified,False,161909
+419,87852,Trade Show / Event,2024-04-29,21.1,Disqualified,False,175661
+420,105030,Partner Channel,2025-05-28,14.4,Disqualified,False,210213
+421,80187,Outbound - Email,2024-05-20,25.6,Converted,True,160359
+422,39345,Partner Channel,2024-12-04,50.3,Converted,True,78704
+423,87615,Outbound - Email,2025-06-27,38.7,Converted,True,175210
+424,3396,Inbound - Web,2024-07-05,31.4,Disqualified,False,6772
+425,8003,Referral,2024-02-04,24.1,Converted,True,16034
+426,36748,Partner Channel,2025-01-09,28.8,Disqualified,False,73581
+427,25967,Inbound - Web,2024-03-12,36.9,Disqualified,False,51995
+428,56622,Outbound - Email,2024-08-29,20.3,Nurturing,False,113228
+429,82260,Outbound - Email,2025-04-18,24.2,Nurturing,False,164500
+430,76655,Inbound - Web,2024-05-02,6.3,Disqualified,False,153331
+431,71211,Inbound - Web,2024-11-18,29.1,Nurturing,False,142446
+432,17639,Outbound - Cold Call,2026-01-25,22.5,Nurturing,False,35323
+433,98562,Partner Channel,2024-12-04,31.3,Disqualified,False,197176
+434,3305,Inbound - Web,2026-06-23,16.0,Nurturing,False,6588
+435,4310,Partner Channel,2025-05-01,26.8,Disqualified,False,8637
+436,15926,Outbound - Cold Call,2025-01-09,19.2,Disqualified,False,31907
+437,49148,Outbound - Email,2024-09-20,31.3,Disqualified,False,98226
+438,79305,Trade Show / Event,2026-04-23,20.1,Disqualified,False,158598
+439,109515,Outbound - Cold Call,2024-06-09,6.4,Disqualified,False,219134
+440,77583,Outbound - Cold Call,2025-04-30,18.6,Nurturing,False,155169
+441,92978,Outbound - Email,2024-06-23,35.4,Nurturing,False,185999
+442,60053,Outbound - Cold Call,2024-03-31,21.5,Converted,True,120170
+443,83234,Partner Channel,2024-07-31,27.9,Disqualified,False,166428
+444,114100,Outbound - Cold Call,2026-06-20,35.2,Nurturing,False,228361
+445,2831,Partner Channel,2024-06-11,57.4,Nurturing,False,5635
+446,69419,Inbound - Web,2025-01-31,14.2,Converted,True,138863
+447,17722,Trade Show / Event,2025-01-21,22.8,Nurturing,False,35482
+448,92744,Inbound - Web,2024-06-06,52.8,Disqualified,False,185547
+449,101688,Partner Channel,2025-09-05,29.7,Converted,True,203466
+450,18268,Inbound - Web,2025-03-10,45.3,Converted,True,36534
+451,5266,Trade Show / Event,2024-06-07,2.8,Converted,True,10591
+452,20040,Outbound - Cold Call,2025-10-03,34.1,Nurturing,False,40119
+453,67798,Referral,2024-02-23,37.8,Disqualified,False,135649
+454,16596,Inbound - Web,2024-04-13,10.2,Nurturing,False,33232
+455,27348,Referral,2024-04-02,47.5,Disqualified,False,54818
+456,81447,Trade Show / Event,2026-07-24,36.1,Disqualified,False,162862
+457,3788,Inbound - Web,2024-04-29,48.7,Converted,True,7560
+458,22489,Inbound - Web,2024-08-30,31.2,Converted,True,45014
+459,119717,Outbound - Cold Call,2025-08-19,19.3,Disqualified,False,239545
+460,61628,Inbound - Web,2024-11-21,38.8,Nurturing,False,123294
+461,98411,Trade Show / Event,2025-07-15,27.1,Converted,True,196864
+462,3935,Inbound - Web,2026-07-17,27.3,Nurturing,False,7859
+463,26216,Referral,2025-04-09,62.6,Converted,True,52521
+464,99998,Referral,2024-07-05,25.1,Converted,True,200008
+465,23486,Referral,2026-07-30,42.7,Converted,True,47035
+466,73274,Outbound - Cold Call,2026-02-10,33.8,Disqualified,False,146604
+467,61156,Referral,2026-05-15,53.9,Nurturing,False,122358
+468,64877,Outbound - Cold Call,2025-04-20,29.8,Nurturing,False,129794
+469,30054,Inbound - Web,2025-03-29,31.2,Converted,True,60233
+470,38434,Inbound - Web,2025-06-19,11.8,Disqualified,False,76909
+471,61370,Outbound - Cold Call,2025-04-06,20.0,Converted,True,122792
+472,34235,Inbound - Web,2024-11-26,44.1,Converted,True,68534
+473,34359,Trade Show / Event,2026-04-27,32.8,Nurturing,False,68784
+474,16802,Trade Show / Event,2024-05-19,37.8,Converted,True,33643
+475,33259,Trade Show / Event,2024-06-14,27.3,Disqualified,False,66567
+476,61998,Inbound - Web,2025-08-24,36.3,Nurturing,False,124028
+477,79666,Partner Channel,2026-02-11,40.4,Disqualified,False,159310
+478,77655,Outbound - Email,2026-02-26,46.5,Converted,True,155308
+479,79025,Partner Channel,2025-01-31,11.7,Disqualified,False,158059
+480,93497,Inbound - Web,2025-01-01,38.7,Converted,True,187056
+481,86145,Referral,2026-06-16,50.7,Converted,True,172266
+482,48184,Outbound - Email,2024-12-01,25.6,Converted,True,96305
+483,10883,Partner Channel,2026-04-29,32.1,Converted,True,21805
+484,80620,Inbound - Web,2025-10-06,12.8,Disqualified,False,161199
+485,85352,Referral,2024-12-29,60.6,Converted,True,170702
+486,4813,Referral,2025-03-04,31.7,Converted,True,9661
+487,47863,Outbound - Email,2026-04-22,24.6,Disqualified,False,95661
+488,24661,Referral,2024-03-05,45.3,Nurturing,False,49363
+489,115038,Outbound - Cold Call,2024-12-14,15.6,Converted,True,230229
+490,30942,Partner Channel,2024-10-17,37.5,Converted,True,61996
+491,14532,Referral,2025-05-26,24.6,Disqualified,False,29112
+492,87679,Partner Channel,2026-06-02,44.0,Nurturing,False,175333
+493,42528,Inbound - Web,2026-03-14,40.1,Converted,True,85068
+494,108043,Partner Channel,2024-03-11,15.9,Nurturing,False,216193
+495,23525,Outbound - Email,2026-04-16,26.5,Disqualified,False,47103
+496,30371,Inbound - Web,2026-05-06,54.6,Converted,True,60885
+497,95029,Trade Show / Event,2025-03-11,13.8,Nurturing,False,190102
+498,5949,Outbound - Email,2026-02-05,14.0,Disqualified,False,11960
+499,115990,Inbound - Web,2024-11-15,23.7,Converted,True,232130
+500,86639,Referral,2025-03-17,55.0,Converted,True,173269

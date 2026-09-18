@@ -1,0 +1,30 @@
+{
+  "best_model": "xgboost_calibrated",
+  "num_features": [
+    "log_deal_value",
+    "discount_requested_pct",
+    "num_stakeholders",
+    "employees",
+    "engagement_score",
+    "days_since_created_at_scoring",
+    "stage_number_at_scoring",
+    "days_in_current_stage_at_scoring",
+    "num_activities_to_date",
+    "num_calls",
+    "num_emails",
+    "num_meetings",
+    "num_demos",
+    "pct_positive_outcome",
+    "pct_no_response",
+    "days_since_last_activity",
+    "activity_span_days"
+  ],
+  "cat_features": [
+    "source",
+    "industry",
+    "company_size_band",
+    "rep_seniority",
+    "stage_at_scoring"
+  ],
+  "target": "label_won"
+}
